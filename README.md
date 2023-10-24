@@ -1,12 +1,10 @@
-# PacWest's Coding Challenge
-
-Once completed, submit your repository to pacwest@avanade.com
-
-## Welcome to the Avanade Monthly Coding Challenge!
+# Welcome to the PacWest Monthly Coding Challenge!
 
 The purpose of PacWest's monthly Coding Challenge is to create a constant opportunity for developers to upskill their coding abilities, inspire new projects for interview reference, and build SWE community engagement through fun and captivating projects. 
 
-REFINE: At the end of each month, we will tally the points earned by every participant and will release every month's top point-getters onto the [Coding Challenge](https://avanade.sharepoint.com/sites/PacWestSWE/SitePages/Greta%27s-Test-Page.aspx). We will also be recognizing individual accomplishments through "Shoutouts!" for those who have shown high levels of creativity and details. Leaders and "Shoutouts!" will be recognized at our monthly Core Tech meetings and will also be given the chance to present their exceptional projects!
+At the end of each month, each submission's points will be tallied by the PacWest team and submitted to the Coding Challenge leaderboard. Participants who show exceptional work in either a full stack, frontend, or backend capacity will be recognized in both SWE's Monthly CoreTech Meeting and the [Coding Challenge SharePoint ](https://avanade.sharepoint.com/sites/PacWestSWE/SitePages/Greta%27s-Test-Page.aspx). Remember: this is a time to challenge yourself, try out new tech, and have fun!
+
+Once completed, please submit your repository to pacwest@avanade.com with the given reflection questions filled in. 
 
 ## Novembers's Challenge: National Parks Project
 
@@ -19,8 +17,8 @@ Add a description of your project, and a screenshot if possible.
 <table>
   <thead>
     <tr>
-      <th width="500px"><h4>Frontend Challenge</h4></th>
-      <th width="500px"><h4>Backend Challenge</h4></th>
+      <th width="500px"><h3>Frontend Challenge</h3></th>
+      <th width="500px"><h3>Backend Challenge</h3></th>
     </tr>
   </thead>
   <tbody>
