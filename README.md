@@ -5,9 +5,15 @@
 
 <h1 align="center">Welcome to PacWest's November Coding Challenge!</h1>
   
-The purpose of PacWest's monthly Coding Challenge is to create a constant opportunity for developers to upskill their coding abilities, inspire new projects for interview reference, and build SWE community engagement through fun and captivating projects.
+<div align="center"><i>The purpose of PacWest's monthly Coding Challenge is to create a constant opportunity for developers to upskill their coding abilities, inspire new projects for interview reference, and build SWE community engagement through fun and captivating projects.</i></div>
 
-At the end of each month, each submission's points will be tallied by the PacWest team and submitted to the Coding Challenge leaderboard. Participants who show exceptional work in either a full stack, frontend, or backend capacity will be recognized in both SWE's Monthly CoreTech Meeting and the [Coding Challenge SharePoint ](https://avanade.sharepoint.com/sites/PacWestSWE/SitePages/Greta%27s-Test-Page.aspx). <b>Remember</b>: this is a time to challenge yourself, try out new tech, and have fun!
+<hr>
+
+#### To get started: fork this repository and follow the steps listed below. 
+
+We recommend you attempt the Full Stack challenge, but you can select the challenge steps that best suits your commitment level. <b> You do not have to complete each step of the challenge to earn points </b>
+
+At the end of each month, each submission's points will be tallied by the PacWest team and submitted  to the [Coding Challenge leaderboard](https://avanade.sharepoint.com/sites/PacWestSWE/SitePages/Greta%27s-Test-Page.aspx?OR=Teams-HL&CT=1695073757100&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA5MDExMjIyOSIsIkhhc0ZlZGVyYXRlZFVzZXIiOnRydWV9#coding-challenge-leaderboard). Participants who show exceptional work in either a full stack, frontend, or backend capacity will be recognized in both SWE's Monthly CoreTech Meeting. <b>Remember</b>: this is a time to challenge yourself, try out new tech, and have fun! Points are tallied on a continuous basis. For each 2000 points you earn through Coding Challenge, you will be awarded 2000 GoTeam points!
 
 Once completed, please submit your repository to pacwest@avanade.com with the given reflection questions filled in.
 
