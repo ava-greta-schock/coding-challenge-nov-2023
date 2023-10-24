@@ -57,10 +57,14 @@
       </tr>
       <tr width="600px">
         <td>
-          <div>Completed? :heavy_check_mark:</div>
+        <!--           Uncomment div below if completed -->
+        <!--            <div>Completed? :white_check_mark:</div> -->
+          <div>Completed? :x:</div>
         </td>
       <td>
-        <div>Completed? :heavy_check_mark:</div>
+        <!--           Uncomment div below if completed -->
+        <!--            <div>Completed? :white_check_mark:</div> -->
+          <div>Completed? :x:</div>
       </td>
     </tr>
     <!-- Second Challenge -->
@@ -76,13 +80,17 @@
       </tr>
       <tr width="600px">
         <td>
-          <div>Completed? :heavy_check_mark:</div>
+          <!--           Uncomment div below if completed -->
+          <!--            <div>Completed? :white_check_mark:</div> -->
+          <div>Completed? :x:</div>
         </td>
       <td>
-        <div>Completed? :heavy_check_mark:</div>
+        <!--           Uncomment div below if completed -->
+        <!--            <div>Completed? :white_check_mark:</div> -->
+          <div>Completed? :x:</div>
       </td>
   </tr>
-      <!-- Thirs Challenge -->
+      <!-- Third Challenge -->
     <tr width="600px">
         <td>
             <h4>Challenge 3</h4>
@@ -95,10 +103,14 @@
       </tr>
       <tr width="600px">
         <td>
-          <div>Completed? :heavy_check_mark:</div>
+          <!--           Uncomment div below if completed -->
+          <!--            <div>Completed? :white_check_mark:</div> -->
+          <div>Completed? :x:</div>
         </td>
       <td>
-        <div>Completed? :heavy_check_mark:</div>
+        <!--           Uncomment div below if completed -->
+        <!--            <div>Completed? :white_check_mark:</div> -->
+          <div>Completed? :x:</div>
       </td>
   </tr>
       <!-- Fourt Challenge -->
@@ -114,10 +126,14 @@
       </tr>
       <tr width="600px">
         <td>
-          <div>Completed? :heavy_check_mark:</div>
+          <!--           Uncomment div below if completed -->
+          <!--            <div>Completed? :white_check_mark:</div> -->
+          <div>Completed? :x:</div>
         </td>
       <td>
-        <div>Completed? :heavy_check_mark:</div>
+        <!--           Uncomment div below if completed -->
+        <!--            <div>Completed? :white_check_mark:</div> -->
+          <div>Completed? :x:</div>
       </td>
   </tr>
       <!-- Fifth Challenge -->
@@ -133,10 +149,14 @@
       </tr>
       <tr width="600px">
         <td>
-          <div>Completed? :heavy_check_mark:</div>
+          <!--           Uncomment div below if completed -->
+          <!--            <div>Completed? :white_check_mark:</div> -->
+          <div>Completed? :x:</div>
         </td>
       <td>
-        <div>Completed? :heavy_check_mark:</div>
+        <!--           Uncomment div below if completed -->
+        <!--            <div>Completed? :white_check_mark:</div> -->
+          <div>Completed? :x:</div>
       </td>
   </tr>
    
