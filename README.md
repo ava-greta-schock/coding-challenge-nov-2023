@@ -16,11 +16,12 @@
 
 :email: Once completed, please submit your repository to pacwest@avanade.com with the given reflection questions filled in.
 
-<h2 align="center">November's Challenge: National Parks Project</h2>
+<!-- <h2 align="center">November's Challenge: National Parks Project</h2> -->
+<hr>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - [https://github.com/DenverCoder1/readme-typing-svg](https://readme-typing-svg.demolab.com/demo/) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&random=false&width=435&lines=Your+mission%2C+should+you;+choose+to+accept+it+.+.+.;Build+a+National+Parks+App." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&random=false&width=500&lines=Your+mission%2C+should+you;+choose+to+accept+it+.+.+.;Build+a+National+Parks+App." alt="Typing SVG" /></a>
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
