@@ -4,7 +4,7 @@
 
 <hr>
 
-### To get started: fork this repository and follow the steps listed below. 
+## To get started: fork this repository and follow the steps listed below. 
 
 :computer: We recommend you attempt the Full Stack challenge, but you can select the challenge steps that best suits your commitment level. <b>You do not have to complete each step of the challenge to earn points.</b>
 
@@ -31,15 +31,11 @@
   <img src="https://www.worldatlas.com/upload/54/4b/04/arches-national-park-utah-us-josemaria-toscano.jpg" alt="Photo 4" width="20%" maxWidth="100px" height="100px">
 </div>
 
-
-
-
-### Overview
-
-```
-Add a description of your project, and a screenshot if possible.
-```
-### Instructions
+<h2 align="center">Instructions</h2>
+<div align="center">Choose either either the <b>Frontend</b> or <b>Backend</b> routes and follow the given steps. Please note the allotted points given for each step.</div>
+<br> 
+<div align="center">For the <b>Full Stack</b> challenge, complete both routes in conjunction!</div>
+<br> 
 <table>
   <thead>
     <tr>
