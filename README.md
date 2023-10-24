@@ -1,7 +1,7 @@
 
 <h1 align="center">Welcome to PacWest's November Coding Challenge!</h1>
   
-<div align="center"><i>The purpose of PacWest's monthly Coding Challenge is to create a constant opportunity for developers to upskill their coding abilities, inspire talking points** during role discussions, and build SWE community engagement through fun and captivating projects.</i></div>
+<div align="center"><i>The purpose of PacWest's monthly Coding Challenge is to create a constant opportunity for developers to upskill their coding abilities, cultivate accomplishments to reference during role discussions, and build SWE community engagement through fun and captivating projects.</i></div>
 
 <hr>
 
