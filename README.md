@@ -49,11 +49,13 @@
       <tr width="600px">
         <td>
             <h4>Challenge 1</h4>
-          <div>PUT IN DESCRIPTION HERE</div>
+            <div>Point Value</div>
+            <div>PUT IN DESCRIPTION HERE</div>
           </td>
           <td>
-              <h4>Challenge 1</h4>
-              <div>PUT IN DESCRIPTION HERE</div>
+            <h4>Challenge 1</h4>
+            <div>Point Value</div>
+            <div>PUT IN DESCRIPTION HERE</div>
           </td>
       </tr>
       <tr width="600px">
@@ -71,12 +73,14 @@
     <!-- Second Challenge -->
     <tr width="600px">
         <td>
-            <h4>Challenge 2</h4>
-          <div>PUT IN DESCRIPTION HERE</div>
+            <h4>Challenge 2</h4
+            <div>Point Value</div>
+            <div>PUT IN DESCRIPTION HERE</div>
           </td>
           <td>
-              <h4>Challenge 2</h4>
-              <div>PUT IN DESCRIPTION HERE</div>
+            <h4>Challenge 2</h4>
+            <div>Point Value</div>
+             <div>PUT IN DESCRIPTION HERE</div>
           </td>
       </tr>
       <tr width="600px">
@@ -95,10 +99,12 @@
     <tr width="600px">
         <td>
             <h4>Challenge 3</h4>
-          <div>PUT IN DESCRIPTION HERE</div>
+            <div>Point Value</div>
+            <div>PUT IN DESCRIPTION HERE</div>
           </td>
           <td>
               <h4>Challenge 3</h4>
+              <div>Point Value</div>
               <div>PUT IN DESCRIPTION HERE</div>
           </td>
       </tr>
@@ -118,11 +124,13 @@
     <tr width="600px">
         <td>
             <h4>Challenge 4</h4>
-          <div>PUT IN DESCRIPTION HERE</div>
+            <div>Point Value</div>
+            <div>PUT IN DESCRIPTION HERE</div>
           </td>
           <td>
-              <h4>Challenge 4</h4>
-              <div>PUT IN DESCRIPTION HERE</div>
+            <h4>Challenge 4</h4>
+            <div>Point Value</div>
+            <div>PUT IN DESCRIPTION HERE</div>
           </td>
       </tr>
       <tr width="600px">
@@ -141,11 +149,13 @@
     <tr width="600px">
         <td>
             <h4>Challenge 5</h4>
-          <div>PUT IN DESCRIPTION HERE</div>
+            <div>Point Value</div>
+            <div>PUT IN DESCRIPTION HERE</div>
           </td>
           <td>
-              <h4>Challenge 4</h4>
-              <div>PUT IN DESCRIPTION HERE</div>
+            <h4>Challenge 5</h4>
+            <div>Point Value</div>
+            <div>PUT IN DESCRIPTION HERE</div>
           </td>
       </tr>
       <tr width="600px">
