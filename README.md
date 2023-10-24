@@ -1,23 +1,27 @@
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - [https://github.com/DenverCoder1/readme-typing-svg](https://readme-typing-svg.demolab.com/demo/) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&random=false&width=435&lines=Your+mission%2C+should+you;+choose+to+accept+it+.+.+.;Build+a+National+Parks+App." alt="Typing SVG" /></a>
-</p>
-
 <h1 align="center">Welcome to PacWest's November Coding Challenge!</h1>
   
 <div align="center"><i>The purpose of PacWest's monthly Coding Challenge is to create a constant opportunity for developers to upskill their coding abilities, inspire new projects for interview reference, and build SWE community engagement through fun and captivating projects.</i></div>
 
 <hr>
 
-#### To get started: fork this repository and follow the steps listed below. 
+### To get started: fork this repository and follow the steps listed below. 
 
-We recommend you attempt the Full Stack challenge, but you can select the challenge steps that best suits your commitment level. <b> You do not have to complete each step of the challenge to earn points </b>
+:computer: We recommend you attempt the Full Stack challenge, but you can select the challenge steps that best suits your commitment level. <b>You do not have to complete each step of the challenge to earn points.</b>
 
-At the end of each month, each submission's points will be tallied by the PacWest team and submitted  to the [Coding Challenge leaderboard](https://avanade.sharepoint.com/sites/PacWestSWE/SitePages/Greta%27s-Test-Page.aspx?OR=Teams-HL&CT=1695073757100&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA5MDExMjIyOSIsIkhhc0ZlZGVyYXRlZFVzZXIiOnRydWV9#coding-challenge-leaderboard). Participants who show exceptional work in either a full stack, frontend, or backend capacity will be recognized in both SWE's Monthly CoreTech Meeting. <b>Remember</b>: this is a time to challenge yourself, try out new tech, and have fun! Points are tallied on a continuous basis. For each 2000 points you earn through Coding Challenge, you will be awarded 2000 GoTeam points!
+:dart: At the end of each month, each submission's points will be tallied by the PacWest team. Participants who show exceptional work in either a Full Stack, Frontend, or Backend capacity will be recognized in SWE's Monthly CoreTech Meeting. 
 
-Once completed, please submit your repository to pacwest@avanade.com with the given reflection questions filled in.
+:trophy: Points are tallied on a continuous basis. The top five participants will be listed in the [Coding Challenge leaderboard](https://avanade.sharepoint.com/sites/PacWestSWE/SitePages/Greta%27s-Test-Page.aspx?OR=Teams-HL&CT=1695073757100&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA5MDExMjIyOSIsIkhhc0ZlZGVyYXRlZFVzZXIiOnRydWV9#coding-challenge-leaderboard). For each 2000 points you earn through Coding Challenge, you will be awarded 2000 GoTeam points!
+
+:dancer: <b>Remember</b>: this is a time to challenge yourself, try out new tech, and have fun! 
+
+:email: Once completed, please submit your repository to pacwest@avanade.com with the given reflection questions filled in.
 
 <h2 align="center">November's Challenge: National Parks Project</h2>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - [https://github.com/DenverCoder1/readme-typing-svg](https://readme-typing-svg.demolab.com/demo/) -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&random=false&width=435&lines=Your+mission%2C+should+you;+choose+to+accept+it+.+.+.;Build+a+National+Parks+App." alt="Typing SVG" /></a>
+</p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://www.zionponderosa.com/wp-content/uploads/2019/05/rich-martello-367451-unsplash-862x479.jpg" alt="Photo 1" style="width: 20%; max-width: 100px; height: auto;">
