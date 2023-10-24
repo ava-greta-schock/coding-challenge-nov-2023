@@ -13,7 +13,15 @@ At the end of each month, each submission's points will be tallied by the PacWes
 
 Once completed, please submit your repository to pacwest@avanade.com with the given reflection questions filled in. 
 
-## Novembers's Challenge: National Parks Project
+## November's Challenge: National Parks Project
+
+<div align="center">
+  <br>
+  <br>
+  <img src="https://www.zionponderosa.com/wp-content/uploads/2019/05/rich-martello-367451-unsplash-862x479.jpg" width="600px"></a>
+  <br>
+  <br>
+</div>
 
 ### Overview
 
