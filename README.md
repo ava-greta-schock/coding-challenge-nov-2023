@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - [https://github.com/DenverCoder1/readme-typing-svg](https://readme-typing-svg.demolab.com/demo/) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&random=false&width=435&lines=Your+challenge%2C+should+you;+choose+to+accept+it+.+.+.;Build+a+National+Parks+App." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&random=false&width=435&lines=Your+mission%2C+should+you;+choose+to+accept+it+.+.+.;Build+a+National+Parks+App." alt="Typing SVG" /></a>
 </p>
 
 <h1 align="center">Welcome to PacWest's Coding Challenge!</h1>
