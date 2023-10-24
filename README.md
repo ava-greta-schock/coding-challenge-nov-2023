@@ -14,18 +14,17 @@
 
 :email: Once completed, please submit your repository to pacwest@avanade.com with the given reflection questions filled in.
 
-## 
-
-<h2 align="center">:arrow_down: To get started: fork this repository and follow the steps listed below :arrow_down:</h2>
-
-<!-- <h2 align="center">November's Challenge: National Parks Project</h2> -->
 <hr>
 
+<h2 align="center">:arrow_down: To get started: fork this repository and follow the steps listed below :arrow_down:</h2>
+<br>
+<br>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - [https://github.com/DenverCoder1/readme-typing-svg](https://readme-typing-svg.demolab.com/demo/) -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&random=false&width=500&lines=Your+mission%2C+should+you;+choose+to+accept+it+.+.+.;Build+a+National+Parks+App." alt="Typing SVG" /></a>
 </p>
-
+<br>
+<br>
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://www.zionponderosa.com/wp-content/uploads/2019/05/rich-martello-367451-unsplash-862x479.jpg" alt="Photo 1" width="20%" maxWidth="100px" height="100px">
   <img src="https://news.harvard.edu/wp-content/uploads/2019/09/leo-serrat_unsplash-1-1600x900.jpg" alt="Photo 2" width="20%" maxWidth="100px" height="100px">
