@@ -24,11 +24,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&random=false&width=500&lines=Your+mission%2C+should+you;+choose+to+accept+it+.+.+.;Build+a+National+Parks+App." alt="Typing SVG" /></a>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://www.zionponderosa.com/wp-content/uploads/2019/05/rich-martello-367451-unsplash-862x479.jpg" alt="Photo 1" style="width: 20%; max-width: 100px; height: auto;">
-  <img src="https://news.harvard.edu/wp-content/uploads/2019/09/leo-serrat_unsplash-1-1600x900.jpg" alt="Photo 2" style="width: 20%; max-width: 100px; height: auto;">
-  <img src="https://i.ontraport.com/224876.58ad91c170962f6d3f178a6909f4c7ab.PNG" alt="Photo 3" style="width: 20%; max-width: 100px; height: auto;">
-  <img src="https://www.worldatlas.com/upload/54/4b/04/arches-national-park-utah-us-josemaria-toscano.jpg" alt="Photo 4" style="width: 20%; max-width: 100px; height: auto;">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://www.zionponderosa.com/wp-content/uploads/2019/05/rich-martello-367451-unsplash-862x479.jpg" alt="Photo 1" width="20%" maxWidth="100px" height="100px">
+  <img src="https://news.harvard.edu/wp-content/uploads/2019/09/leo-serrat_unsplash-1-1600x900.jpg" alt="Photo 2" width="20%" maxWidth="100px" height="100px">
+  <img src="https://i.ontraport.com/224876.58ad91c170962f6d3f178a6909f4c7ab.PNG" alt="Photo 3" width="20%" maxWidth="100px" height="100px">
+  <img src="https://www.worldatlas.com/upload/54/4b/04/arches-national-park-utah-us-josemaria-toscano.jpg" alt="Photo 4" width="20%" maxWidth="100px" height="100px">
 </div>
 
 
