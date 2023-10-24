@@ -44,101 +44,27 @@
     </tr>
   </thead>
   <tbody>
-<!--       Challenge 1 -->
       <tr width="600px">
-<!--           Frontend Challenge 1 -->
-          <td>
-              <h4>Challenge 1: Establish a National Park Landing Page</h4>
-              <h5>Build the following components: </h5>
-                <div>A navigation bar containing:</div>
-                  <ul>
-                    <li>The website's title </li>
-                    <li>The website's motto</li>
-                    <li>An icon representing the website</li>
-                  </ul>
-                </div>
-              <div>A series of components created from the given NPS data in the JSON file containing:</div>
-                <ul>
-                  <li>The given park's name</li>
-                  <li>The name of the hike</li>
-                  <li>The short description of the hike </li>
-                  <li>The duration of the hike</li>
-                  <li>An image of the hike </li>
-                </ul>
-              </div>
-              </div>
-             <div>Completed? :heavy_check_mark:</div>
+        <td>
+            <h4>Challenge 1</h4>
+          <div>PUT IN DESCRIPTION HERE</div>
           </td>
-<!--           Backend Challenge 2 -->
           <td>
               <h4>Challenge 1</h4>
               <div>PUT IN DESCRIPTION HERE</div>
           </td>
       </tr>
-<!--       Challenge 2 -->
       <tr width="600px">
-<!--           Front-End Challenge 2 -->
-          <td>
-              <h4>Challenge 2: Stylize Landing Page Using an External Framework</h4>
-              <h5>Establish a connection to an external CSS framework to stylize the established components:</h5>
-                <div>A navigation bar containing:</div>
-                  <ul>
-                    <li>Bootstrap</li>
-                    <li>Material UI</li>
-                    <li>Shadcn</li>
-                  </ul>
-                </div>
-              </div>
-             <div>Completed? :heavy_check_mark:</div>
-          </td>
-<!--           Back-End Challenge 2 -->
-          <td>
-              <h4>Challenge 2</h4>
-              <div>PUT IN DESCRIPTION HERE</div>
-          </td>
-      </tr>
-    <!--       Challenge 3 -->
-      <tr width="600px">
-<!--           Front-End Challenge 3 -->
-          <td>
-              <h4>Challenge 3: External Component</h4>
-              <div>Add in external feature related to the app that is dependent on the current state of an interactive feature</div>
-          </td>
-<!--           Back-End Challenge 3 -->
-          <td>
-              <h4>Challenge 3</h4>
-              <div>PUT IN DESCRIPTION HERE</div>
-          </td>
-      </tr>
-    <!--       Challenge 4 -->
-      <tr width="600px">
-<!--           Front-End Challenge 4 -->
-          <td>
-              <h4>Challenge 4</h4>
-              <div>PUT IN DESCRIPTION HERE</div>
-          </td>
-<!--           Back-End Challenge 2 -->
-          <td>
-              <h4>Challenge 4</h4>
-              <div>PUT IN DESCRIPTION HERE</div>
-          </td>
-      </tr>
-    <!--       Challenge 5 -->
-      <tr width="600px">
-<!--           Front-End Challenge 5 -->
-          <td>
-              <h4>Challenge 5</h4>
-              <div>PUT IN DESCRIPTION HERE</div>
-          </td>
-<!--           Back-End Challenge 5 -->
-          <td>
-              <h4>Challenge 5</h4>
-              <div>PUT IN DESCRIPTION HERE</div>
-          </td>
-      </tr>
+        <td>
+          <div>Completed? :heavy_check_mark:</div>
+        </td>
+      <td>
+        <div>Completed? :heavy_check_mark:</div>
+      </td>
+  </tr>
+   
   </tbody>
 </table>
-
 
 ## Coding Suggestions
 
