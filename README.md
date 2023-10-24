@@ -19,8 +19,8 @@ Add a description of your project, and a screenshot if possible.
 <table>
   <thead>
     <tr>
-      <th width="500px"><h3>Frontend Challenge</h3></th>
-      <th width="500px"><h3>Backend Challenge</h3></th>
+      <th width="500px"><h4>Frontend Challenge</h4></th>
+      <th width="500px"><h4>Backend Challenge</h4></th>
     </tr>
   </thead>
   <tbody>
@@ -28,8 +28,8 @@ Add a description of your project, and a screenshot if possible.
       <tr width="600px">
 <!--           Frontend Challenge 1 -->
           <td>
-              <h2>Challenge 1: Establish a National Park Landing Page</h2>
-              <h3>Build the following components: </h3>
+              <h4>Challenge 1: Establish a National Park Landing Page</h4>
+              <h5>Build the following components: </h5>
                 <div>A navigation bar containing:</div>
                   <ul>
                     <li>The website's title </li>
@@ -51,7 +51,7 @@ Add a description of your project, and a screenshot if possible.
           </td>
 <!--           Backend Challenge 2 -->
           <td>
-              <h2>Challenge 1</h2>
+              <h4>Challenge 1</h4>
               <div>PUT IN DESCRIPTION HERE</div>
           </td>
       </tr>
@@ -59,8 +59,8 @@ Add a description of your project, and a screenshot if possible.
       <tr width="600px">
 <!--           Front-End Challenge 2 -->
           <td>
-              <h2>Challenge 2: Stylize Landing Page Using an External Framework</h2>
-              <h3>Establish a connection to an external CSS framework to stylize the established components:</h3>
+              <h4>Challenge 2: Stylize Landing Page Using an External Framework</h4>
+              <h5>Establish a connection to an external CSS framework to stylize the established components:</h5>
                 <div>A navigation bar containing:</div>
                   <ul>
                     <li>Bootstrap</li>
@@ -73,7 +73,7 @@ Add a description of your project, and a screenshot if possible.
           </td>
 <!--           Back-End Challenge 2 -->
           <td>
-              <h2>Challenge 2</h2>
+              <h4>Challenge 2</h4>
               <div>PUT IN DESCRIPTION HERE</div>
           </td>
       </tr>
@@ -81,12 +81,12 @@ Add a description of your project, and a screenshot if possible.
       <tr width="600px">
 <!--           Front-End Challenge 3 -->
           <td>
-              <h2>Challenge 3: External Component</h2>
+              <h4>Challenge 3: External Component</h4>
               <div>Add in external feature related to the app that is dependent on the current state of an interactive feature</div>
           </td>
 <!--           Back-End Challenge 3 -->
           <td>
-              <h2>Challenge 3</h2>
+              <h4>Challenge 3</h4>
               <div>PUT IN DESCRIPTION HERE</div>
           </td>
       </tr>
@@ -94,12 +94,12 @@ Add a description of your project, and a screenshot if possible.
       <tr width="600px">
 <!--           Front-End Challenge 4 -->
           <td>
-              <h2>Challenge 4</h2>
+              <h4>Challenge 4</h4>
               <div>PUT IN DESCRIPTION HERE</div>
           </td>
 <!--           Back-End Challenge 2 -->
           <td>
-              <h2>Challenge 4</h2>
+              <h4>Challenge 4</h4>
               <div>PUT IN DESCRIPTION HERE</div>
           </td>
       </tr>
@@ -107,12 +107,12 @@ Add a description of your project, and a screenshot if possible.
       <tr width="600px">
 <!--           Front-End Challenge 5 -->
           <td>
-              <h2>Challenge 5</h2>
+              <h4>Challenge 5</h4>
               <div>PUT IN DESCRIPTION HERE</div>
           </td>
 <!--           Back-End Challenge 5 -->
           <td>
-              <h2>Challenge 5</h2>
+              <h4>Challenge 5</h4>
               <div>PUT IN DESCRIPTION HERE</div>
           </td>
       </tr>
