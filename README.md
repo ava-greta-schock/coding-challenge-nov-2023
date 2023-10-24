@@ -1,5 +1,4 @@
-
- <h1 align="center">Welcome to PacWest's Coding Challenge!</h1>
+<h1 align="center">Welcome to PacWest's Coding Challenge!</h1>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - [https://github.com/DenverCoder1/readme-typing-svg](https://readme-typing-svg.demolab.com/demo/) -->
@@ -13,15 +12,15 @@ At the end of each month, each submission's points will be tallied by the PacWes
 
 Once completed, please submit your repository to pacwest@avanade.com with the given reflection questions filled in. 
 
-## November's Challenge: National Parks Project
+<h2 align="center">November's Challenge: National Parks Project</h2>
 
-<div align="center">
-  <br>
-  <br>
-  <img src="https://www.zionponderosa.com/wp-content/uploads/2019/05/rich-martello-367451-unsplash-862x479.jpg" width="600px"></a>
-  <br>
-  <br>
-</div>
+<div style="display: flex; justify-content: space-between; align-tems: center;">
+        <img src="https://www.zionponderosa.com/wp-content/uploads/2019/05/rich-martello-367451-unsplash-862x479.jpg" alt="Photo 1" style="width: 20%;">
+        <img src="https://news.harvard.edu/wp-content/uploads/2019/09/leo-serrat_unsplash-1-1600x900.jpg" alt="Photo 2" style="width: 20%;">
+        <img src="https://i.ontraport.com/224876.58ad91c170962f6d3f178a6909f4c7ab.PNG" alt="Photo 3" style="width: 20%;">
+        <img src="https://www.worldatlas.com/upload/54/4b/04/arches-national-park-utah-us-josemaria-toscano.jpg" alt="Photo 4" style="width: 20%;">
+    </div>
+
 
 ### Overview
 
