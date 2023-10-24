@@ -4,15 +4,15 @@
 
 <hr>
 
-## To get started: fork this repository and follow the steps listed below. 
+## To get started: fork this repository and follow the steps listed below.
 
 :computer: We recommend you attempt the Full Stack challenge, but you can select the challenge steps that best suits your commitment level. <b>You do not have to complete each step of the challenge to earn points.</b>
 
-:dart: At the end of each month, each submission's points will be tallied by the PacWest team. Participants who show exceptional work in either a Full Stack, Frontend, or Backend capacity will be recognized in SWE's Monthly CoreTech Meeting. 
+:dart: At the end of each month, each submission's points will be tallied by the PacWest team. Participants who show exceptional work in either a Full Stack, Frontend, or Backend capacity will be recognized in SWE's Monthly CoreTech Meeting.
 
 :trophy: Points are tallied on a continuous basis. The top five participants will be listed in the [Coding Challenge leaderboard](https://avanade.sharepoint.com/sites/PacWestSWE/SitePages/Greta%27s-Test-Page.aspx?OR=Teams-HL&CT=1695073757100&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA5MDExMjIyOSIsIkhhc0ZlZGVyYXRlZFVzZXIiOnRydWV9#coding-challenge-leaderboard). For each 2000 points you earn through Coding Challenge, you will be awarded 2000 [GoTeam points](https://cloud.workhuman.com/microsites/t/home?client=avanade&setCAG=false)!
 
-:dizzy: <b>Remember</b>: this is a time to challenge yourself, try out new tech, and have fun! 
+:dizzy: <b>Remember</b>: this is a time to challenge yourself, try out new tech, and have fun!
 
 :email: Once completed, please submit your repository to pacwest@avanade.com with the given reflection questions filled in.
 
@@ -44,6 +44,7 @@
     </tr>
   </thead>
   <tbody>
+  <!-- First Challenge -->
       <tr width="600px">
         <td>
             <h4>Challenge 1</h4>
@@ -51,6 +52,82 @@
           </td>
           <td>
               <h4>Challenge 1</h4>
+              <div>PUT IN DESCRIPTION HERE</div>
+          </td>
+      </tr>
+      <tr width="600px">
+        <td>
+          <div>Completed? :heavy_check_mark:</div>
+        </td>
+      <td>
+        <div>Completed? :heavy_check_mark:</div>
+      </td>
+    </tr>
+    <!-- Second Challenge -->
+    <tr width="600px">
+        <td>
+            <h4>Challenge 2</h4>
+          <div>PUT IN DESCRIPTION HERE</div>
+          </td>
+          <td>
+              <h4>Challenge 2</h4>
+              <div>PUT IN DESCRIPTION HERE</div>
+          </td>
+      </tr>
+      <tr width="600px">
+        <td>
+          <div>Completed? :heavy_check_mark:</div>
+        </td>
+      <td>
+        <div>Completed? :heavy_check_mark:</div>
+      </td>
+  </tr>
+      <!-- Thirs Challenge -->
+    <tr width="600px">
+        <td>
+            <h4>Challenge 3</h4>
+          <div>PUT IN DESCRIPTION HERE</div>
+          </td>
+          <td>
+              <h4>Challenge 3</h4>
+              <div>PUT IN DESCRIPTION HERE</div>
+          </td>
+      </tr>
+      <tr width="600px">
+        <td>
+          <div>Completed? :heavy_check_mark:</div>
+        </td>
+      <td>
+        <div>Completed? :heavy_check_mark:</div>
+      </td>
+  </tr>
+      <!-- Fourt Challenge -->
+    <tr width="600px">
+        <td>
+            <h4>Challenge 4</h4>
+          <div>PUT IN DESCRIPTION HERE</div>
+          </td>
+          <td>
+              <h4>Challenge 4</h4>
+              <div>PUT IN DESCRIPTION HERE</div>
+          </td>
+      </tr>
+      <tr width="600px">
+        <td>
+          <div>Completed? :heavy_check_mark:</div>
+        </td>
+      <td>
+        <div>Completed? :heavy_check_mark:</div>
+      </td>
+  </tr>
+      <!-- Fifth Challenge -->
+    <tr width="600px">
+        <td>
+            <h4>Challenge 5</h4>
+          <div>PUT IN DESCRIPTION HERE</div>
+          </td>
+          <td>
+              <h4>Challenge 4</h4>
               <div>PUT IN DESCRIPTION HERE</div>
           </td>
       </tr>
