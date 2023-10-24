@@ -1,20 +1,26 @@
-# PacWest Coding Challenge - Boilerplate
+# PacWest's Coding Challenge
 
-> pacwest@avanade.com
+Once completed, submit your repository to pacwest@avanade.com
 
 ## Welcome to the Avanade Monthly Coding Challenge!
 
 The purpose of PacWest's monthly Coding Challenge is to create a constant opportunity for developers to upskill their coding abilities, inspire new projects for interview reference, and build SWE community engagement through fun and captivating projects. 
 
-At the end of each month, we will tally the points earned by every participant and will release every month's top point-getters onto the [Coding Challenge (sharepoint.com)](https://avanade.sharepoint.com/sites/PacWestSWE/SitePages/Greta%27s-Test-Page.aspx). We will also be recognizing individual accomplishments through "Shoutouts!" for those who have shown high levels of creativity and details. Leaders and "Shoutouts!" will be recognized at our monthly Core Tech meetings and will also be given the chance to present their exceptional projects!
+REFINE: At the end of each month, we will tally the points earned by every participant and will release every month's top point-getters onto the [Coding Challenge](https://avanade.sharepoint.com/sites/PacWestSWE/SitePages/Greta%27s-Test-Page.aspx). We will also be recognizing individual accomplishments through "Shoutouts!" for those who have shown high levels of creativity and details. Leaders and "Shoutouts!" will be recognized at our monthly Core Tech meetings and will also be given the chance to present their exceptional projects!
 
-## Novembers's Challenge: National Park Project
+## Novembers's Challenge: National Parks Project
 
+### Overview
+
+```
+Add a description of your project, and a screenshot if possible.
+```
+### Instructions
 <table>
   <thead>
     <tr>
-      <th width="500px"><h1>Frontend Challenge</h1></th>
-      <th width="500px"><h1>Backend Challenge</h1></th>
+      <th width="500px"><h3>Frontend Challenge</h3></th>
+      <th width="500px"><h3>Backend Challenge</h3></th>
     </tr>
   </thead>
   <tbody>
@@ -113,15 +119,6 @@ At the end of each month, we will tally the points earned by every participant a
   </tbody>
 </table>
 
-## Overview
-
-Create an app where [add in basic description]
-
----------------Remember, the readme needs to have input added in by the participant. Should we have questions for the participant to answer in here rather than suggestions?--------------
-
-```
-Add a description of your project, and a screenshot if possible.
-```
 
 ## Coding Suggestions
 
