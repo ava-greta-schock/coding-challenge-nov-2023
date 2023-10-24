@@ -1,3 +1,4 @@
+
 <h1 align="center">Welcome to PacWest's November Coding Challenge!</h1>
   
 <div align="center"><i>The purpose of PacWest's monthly Coding Challenge is to create a constant opportunity for developers to upskill their coding abilities, inspire new projects to reference during role discussions, and build SWE community engagement through fun and captivating web applications.</i></div>
@@ -53,9 +54,16 @@
             <div>PUT IN DESCRIPTION HERE</div>
           </td>
           <td>
-            <h4>Challenge 1</h4>
+            <h2>Challenge 1: Build out your database!</h2>
             <div>Point Value</div>
-            <div>PUT IN DESCRIPTION HERE</div>
+	            <h3>Build the following components: </h3>
+	                <div>A database for your National Park Data:</div>
+		                <ul>
+		                    <li>Data must be held in some type of database software (SQL Server, MySql, etc.) </li>
+		                    <li>Must include at least two tables with multiple columns, including primary/foreign keys.</li>
+		                    <li>Must include at least one table with at least 10 or more rows of data, not including relationship tables.</li>
+		                    <li>Must establish some type of relationship between the two tables (one-to-one, one-to-many, many-to-one, many-to-many)</li>
+		              </ul>
           </td>
       </tr>
       <tr width="600px">
@@ -78,9 +86,20 @@
             <div>PUT IN DESCRIPTION HERE</div>
           </td>
           <td>
-            <h4>Challenge 2</h4>
+             <h2>Challenge 2: Start your back-end project and create your models!</h2>
             <div>Point Value</div>
-             <div>PUT IN DESCRIPTION HERE</div>
+            <h3>Build the following components: </h3>
+                <div>A primary project to code your backend:</div>
+                <ul>
+                    <li>Choose a software that gives you a challenge! (Java, C#, Python, etc.)</li>
+                    <li>Must also choose a corresponding framework (Spring, .NET, etc.)</li>
+                </ul>
+                 <div>A folder including your models:</div>
+                <ul>
+                    <li>Models must mimic tables created in the database</li>
+                    <li>If a relationship table was also made, then a model must also be created for that table</li>
+                    <li>Establish in your code primary keys and relationship types for foreign keys</li>
+                </ul>
           </td>
       </tr>
       <tr width="600px">
@@ -103,10 +122,20 @@
             <div>PUT IN DESCRIPTION HERE</div>
           </td>
           <td>
-              <h4>Challenge 3</h4>
-              <div>Point Value</div>
-              <div>PUT IN DESCRIPTION HERE</div>
-          </td>
+              <h2>Challenge 3: Create your Repositories & Controllers</h2>
+            <div>Point Value</div>
+            <h3>Build the following components: </h3>
+                <div>A folder that includes your repository files: </div>
+                <ul>
+                    <li>Must establish a database connection</li>
+                    <li>Certain programming languages have different approaches when building these out (JPA Repository in Java, EF Core in C#), so try to follow their conventions</li>
+                </ul>
+                 <div>A folder including your controllers:</div>
+                <ul>
+                    <li>Provide at least THREE different methods of receiving data.</li>
+                    <li>Use either a third-party software (Postman) or browser to test your controller</li>
+                    <li>Data must be in JSON format</li>
+                </ul>
       </tr>
       <tr width="600px">
         <td>
@@ -128,9 +157,22 @@
             <div>PUT IN DESCRIPTION HERE</div>
           </td>
           <td>
-            <h4>Challenge 4</h4>
+            <h2>Challenge 4: Create your Services & Finish Your APIs</h2>
             <div>Point Value</div>
-            <div>PUT IN DESCRIPTION HERE</div>
+            <h3>Build the following components: </h3>
+                <div>A folder that includes your service files: </div>
+                <ul>
+                    <li>Must create a service file for each table created in your database</li>
+                    <li>Services are meant to do the work of retrieving & manipulating data</li>
+                    <li>Adjust controllers accordingly so that they may call methods from services rather than perform them</li>
+                </ul>
+                 <div>Finish your REST APIs</div>
+                <ul>
+                    <li>Create the services that will be able to POST, PUT, and DELETE data from your database</li>
+                    <li>Follow procedures and conventions from your coding language when creating services to grab & manipulate data from the db.</li>
+                    <li>Use either a third-party software (Postman) or browser to test your controller</li>
+                    <li>Data must be in JSON format (if applicable)</li>
+                </ul>
           </td>
       </tr>
       <tr width="600px">
@@ -153,9 +195,22 @@
             <div>PUT IN DESCRIPTION HERE</div>
           </td>
           <td>
-            <h4>Challenge 5</h4>
+            <h2>Challenge 5: Create your DTOs</h2>
             <div>Point Value</div>
-            <div>PUT IN DESCRIPTION HERE</div>
+            <h3>Build the following components: </h3>
+                <div>A folder that includes your DTO files: </div>
+                <ul>
+                    <li>DTOs should be similar to the models created</li>
+                    <li>Depending on how you want to grab data, you may need to make several DTO files for specific situations</li>
+                    <li>Follow conventional procedures based off your coding language</li>
+                </ul>
+                 <div>Incorporate DTOs into your services & controllers</div>
+                <ul>
+                    <li>Update your services & controllers so that they may return DTOs rather than models.</li>
+                    <li>Get creative! Your backend should now have plenty of flexibility and potential to keep making unique updates</li>
+                    <li>Use either a third-party software (Postman) or browser to test your controller</li>
+                    <li>Data must be in JSON format (if applicable)</li>
+                </ul>
           </td>
       </tr>
       <tr width="600px">
