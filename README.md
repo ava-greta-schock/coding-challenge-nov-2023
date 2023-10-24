@@ -10,9 +10,9 @@
 
 :dart: At the end of each month, each submission's points will be tallied by the PacWest team. Participants who show exceptional work in either a Full Stack, Frontend, or Backend capacity will be recognized in SWE's Monthly CoreTech Meeting. 
 
-:trophy: Points are tallied on a continuous basis. The top five participants will be listed in the [Coding Challenge leaderboard](https://avanade.sharepoint.com/sites/PacWestSWE/SitePages/Greta%27s-Test-Page.aspx?OR=Teams-HL&CT=1695073757100&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA5MDExMjIyOSIsIkhhc0ZlZGVyYXRlZFVzZXIiOnRydWV9#coding-challenge-leaderboard). For each 2000 points you earn through Coding Challenge, you will be awarded 2000 GoTeam points!
+:trophy: Points are tallied on a continuous basis. The top five participants will be listed in the [Coding Challenge leaderboard](https://avanade.sharepoint.com/sites/PacWestSWE/SitePages/Greta%27s-Test-Page.aspx?OR=Teams-HL&CT=1695073757100&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA5MDExMjIyOSIsIkhhc0ZlZGVyYXRlZFVzZXIiOnRydWV9#coding-challenge-leaderboard). For each 2000 points you earn through Coding Challenge, you will be awarded 2000 [GoTeam points](https://cloud.workhuman.com/microsites/t/home?client=avanade&setCAG=false)!
 
-:dancer: <b>Remember</b>: this is a time to challenge yourself, try out new tech, and have fun! 
+:dizzy: <b>Remember</b>: this is a time to challenge yourself, try out new tech, and have fun! 
 
 :email: Once completed, please submit your repository to pacwest@avanade.com with the given reflection questions filled in.
 
