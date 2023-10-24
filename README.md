@@ -1,4 +1,11 @@
-# Welcome to the PacWest Monthly Coding Challenge!
+
+ <h1 align="center">Welcome to PacWest's Coding Challenge!</h1>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - [https://github.com/DenverCoder1/readme-typing-svg](https://readme-typing-svg.demolab.com/demo/) -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&random=false&width=435&lines=Your+challenge%2C+should+you;+choose+to+accept+it+.+.+.;Build+a+National+Parks+App." alt="Typing SVG" /></a>
+</p>
+
 
 The purpose of PacWest's monthly Coding Challenge is to create a constant opportunity for developers to upskill their coding abilities, inspire new projects for interview reference, and build SWE community engagement through fun and captivating projects. 
 
