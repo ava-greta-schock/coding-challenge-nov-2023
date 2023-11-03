@@ -1,0 +1,272 @@
+[
+    {
+        "park_id": 1,
+        "url": "https://www.nps.gov/alca/index.htm",
+        "fullName": "Alcatraz Island",
+        "parkCode": "alca",
+        "description": "Alcatraz reveals stories of American incarceration, justice, and our common humanity. This small island was once a fort, a military prison, and a maximum security federal penitentiary. In 1969, the Indians of All Tribes occupied Alcatraz for 19 months in the name of freedom and Native American civil rights. We invite you to explore Alcatraz's complex history and natural beauty.",
+        "latitude": "37.82676234",
+        "longitude": "-122.4230206"
+    },
+    {
+        "park_id": 2,
+        "url": "https://www.nps.gov/cabr/index.htm",
+        "fullName": "Cabrillo National Monument",
+        "parkCode": "cabr",
+        "description": "Climbing out of his boat and onto shore in 1542, Juan Rodriguez Cabrillo stepped into history as the first European to set foot on what is now the West Coast of the United States. In addition to telling the story of 16th century exploration, the park is home to a wealth of cultural and natural resources. Join us and embark on your own Voyage of Exploration.",
+        "latitude": "32.6722503",
+        "longitude": "-117.2415985"
+    },
+    {
+        "park_id": 3,
+        "url": "https://www.nps.gov/cali/index.htm",
+        "fullName": "California National Historic Trail",
+        "parkCode": "cali",
+        "description": "Follow in the footsteps of over 250,000 emigrants who traveled to the gold fields and rich farmlands of California during the 1840s and 1850s: the greatest mass migration in American history. The California National Historic Trail is over 5,000 miles long and covers portions of 10 states. Step into history along more than 1,000 miles of ruts and traces from travelers and their overland wagons.",
+        "latitude": "42.3999643979",
+        "longitude": "-108.702415369"
+    },
+    {
+        "park_id": 4,
+        "url": "https://www.nps.gov/camo/index.htm",
+        "fullName": "Castle Mountains National Monument",
+        "parkCode": "camo",
+        "description": "Castle Mountains represents some of the most unique elements of the Mojave Desert. Nestled between the Nevada state line and Mojave National Preserve, the nearly 21,000 acres of Castle Mountains boasts Joshua tree forests, unbroken natural landscapes, rare desert grasslands, and rich human history. This intriguing area provides serenity and solitude from nearby metropolitan areas.",
+        "latitude": "35.29156348",
+        "longitude": "-115.0935606"
+    },
+    {
+        "park_id": 5,
+        "url": "https://www.nps.gov/chis/index.htm",
+        "fullName": "Channel Islands National Park",
+        "parkCode": "chis",
+        "description": "Channel Islands National Park encompasses five remarkable islands and their ocean environment, preserving and protecting a wealth of natural and cultural resources. Isolation over thousands of years has created unique animals, plants, and archeological resources found nowhere else on Earth and helped preserve a place where visitors can experience coastal southern California as it once was.",
+        "latitude": "33.98680093",
+        "longitude": "-119.9112735"
+    },
+    {
+        "park_id": 6,
+        "url": "https://www.nps.gov/deva/index.htm",
+        "fullName": "Death Valley National Park",
+        "parkCode": "deva",
+        "description": "In this below-sea-level basin, steady drought and record summer heat make Death Valley a land of extremes. Yet, each extreme has a striking contrast. Towering peaks are frosted with winter snow. Rare rainstorms bring vast fields of wildflowers. Lush oases harbor tiny fish and refuge for wildlife and humans. Despite its morbid name, a great diversity of life thrives in Death Valley.",
+        "latitude": "36.48753731",
+        "longitude": "-117.134395"
+    },
+    {
+        "park_id": 7,
+        "url": "https://www.nps.gov/depo/index.htm",
+        "fullName": "Devils Postpile National Monument",
+        "parkCode": "depo",
+        "description": "Established in 1911 by presidential proclamation, Devils Postpile National Monument protects and preserves the Devils Postpile formation, the 101-foot high Rainbow Falls, and pristine mountain scenery. The formation is a rare sight in the geologic world and ranks as one of the world's finest examples of columnar basalt. Its' columns tower up to 60 feet and display a striking symmetry.",
+        "latitude": "37.6152564",
+        "longitude": "-119.0873903"
+    },
+    {
+        "park_id": 8,
+        "url": "https://www.nps.gov/euon/index.htm",
+        "fullName": "Eugene O'Neill National Historic Site",
+        "parkCode": "euon",
+        "description": "America's only Nobel Prize winning playwright, Eugene O'Neill, chose to live in Northern California at the height of his writing career. Isolated from the world and within the walls of his home, O'Neill wrote his final and most memorable plays; The Iceman Cometh, Long Day's Journey Into Night, and A Moon for the Misbegotten.",
+        "latitude": "37.82604456",
+        "longitude": "-122.0271566"
+    },
+    {
+        "park_id": 9,
+        "url": "https://www.nps.gov/fopo/index.htm",
+        "fullName": "Fort Point National Historic Site",
+        "parkCode": "fopo",
+        "description": "From its vantage point overlooking the spectacular Golden Gate, Fort Point defended the San Francisco Bay following California's Gold Rush through World War II. Its beautifully arched casemates display the art of 3rd system brick masonry and interacts gracefully with the Golden Gate Bridge.",
+        "latitude": "37.80837439",
+        "longitude": "-122.473747"
+    },
+    {
+        "park_id": 10,
+        "url": "https://www.nps.gov/goga/index.htm",
+        "fullName": "Golden Gate National Recreation Area",
+        "parkCode": "goga",
+        "description": "Experience a park so rich it supports 19 distinct ecosystems with over 2,000 plant and animal species. Go for a hike, enjoy a vista, have a picnic or learn about the centuries of overlapping history from California’s indigenous cultures, Spanish colonialism, the Mexican Republic, US military expansion and the growth of San Francisco. All of this and more awaits you, so get out and find your park.",
+        "latitude": "37.85982543",
+        "longitude": "-122.6007386"
+    },
+    {
+        "park_id": 11,
+        "url": "https://www.nps.gov/jomu/index.htm",
+        "fullName": "John Muir National Historic Site",
+        "parkCode": "jomu",
+        "description": "John Muir played many roles in his life, all of which helped him succeed in his role as an advocate for Nature. As America’s most famous naturalist and conservationist, Muir fought to protect the wild places he loved, places we can still visit today. Muir’s writings convinced the U.S. government to protect Yosemite, Sequoia, Grand Canyon and Mt. Rainier as national parks.",
+        "latitude": "37.9828422",
+        "longitude": "-122.1326097"
+    },
+    {
+        "park_id": 12,
+        "url": "https://www.nps.gov/jotr/index.htm",
+        "fullName": "Joshua Tree National Park",
+        "parkCode": "jotr",
+        "description": "Two distinct desert ecosystems, the Mojave and the Colorado, come together in Joshua Tree National Park. A fascinating variety of plants and animals make their homes in a land sculpted by strong winds and occasional torrents of rain. Dark night skies, a rich cultural history, and surreal geologic features add to the wonder of this vast wilderness in southern California. Come explore for yourself.",
+        "latitude": "33.91418525",
+        "longitude": "-115.8398125"
+    },
+    {
+        "park_id": 13,
+        "url": "https://www.nps.gov/juba/index.htm",
+        "fullName": "Juan Bautista de Anza National Historic Trail",
+        "parkCode": "juba",
+        "description": "\\\"¡Vayan Subiendo!\\\"(\\\"Everyone mount up!\\\") was the rousing call from Juan Bautista de Anza. In 1775-76, he led some 240 men, women, and children on an epic journey to establish the first non-Native settlement at San Francisco Bay. Today, the 1,200-mile Juan Bautista de Anza National Historic Trail connects history, culture, and outdoor recreation from Nogales, Arizona, to the San Francisco Bay Area.",
+        "latitude": "33.8743390994",
+        "longitude": "-117.224179857"
+    },
+    {
+        "park_id": 14,
+        "url": "https://www.nps.gov/lavo/index.htm",
+        "fullName": "Lassen Volcanic National Park",
+        "parkCode": "lavo",
+        "description": "Lassen Volcanic National Park is home to steaming fumaroles, meadows freckled with wildflowers, clear mountain lakes, and numerous volcanoes. Jagged peaks tell the story of its eruptive past while hot water continues to shape the land.",
+        "latitude": "40.49354575",
+        "longitude": "-121.4075993"
+    },
+    {
+        "park_id": 15,
+        "url": "https://www.nps.gov/labe/index.htm",
+        "fullName": "Lava Beds National Monument",
+        "parkCode": "labe",
+        "description": "Lava Beds National Monument is a land of turmoil, both geological and historical. Over the last half-million years, volcanic eruptions on the Medicine Lake shield volcano have created a rugged landscape dotted with diverse volcanic features. More than 800 caves, Native American rock art sites, historic battlefields and campsites, and a high desert wilderness experience await you!",
+        "latitude": "41.75915823",
+        "longitude": "-121.5172189"
+    },
+    {
+        "park_id": 16,
+        "url": "https://www.nps.gov/manz/index.htm",
+        "fullName": "Manzanar National Historic Site",
+        "parkCode": "manz",
+        "description": "In 1942, the United States government ordered more than 110,000 men, women, and children to leave their homes and detained them in remote, military-style camps. Manzanar War Relocation Center was one of ten camps where the US government incarcerated Japanese immigrants ineligible for citizenship and Japanese American citizens during World War II.",
+        "latitude": "36.72559195",
+        "longitude": "118.1547177"
+    },
+    {
+        "park_id": 17,
+        "url": "https://www.nps.gov/moja/index.htm",
+        "fullName": "Mojave National Preserve",
+        "parkCode": "moja",
+        "description": "Mojave preserves a diverse mosaic of ecological habitats and a 10,000 year history of human connection with the desert. Offering extensive opportunities to experience desert landscapes, the preserve promotes understanding and appreciation for the increasingly threatened resources of the Mojave Desert. This remote preserve encourages a sense of discovery and a connection to wild places.",
+        "latitude": "35.12485941",
+        "longitude": "-115.5168258"
+    },
+    {
+        "park_id": 18,
+        "url": "https://www.nps.gov/muwo/index.htm",
+        "fullName": "Muir Woods National Monument",
+        "parkCode": "muwo",
+        "description": "Walk among old growth coast redwoods, cooling their roots in the fresh water of Redwood Creek and lifting their crowns to reach the sun and fog. Federally protected as a National Monument since 1908, this primeval forest is both refuge and laboratory, revealing our relationship with the living landscape. What will you discover in Muir Woods?",
+        "latitude": "37.89658027",
+        "longitude": "-122.5808047"
+    },
+    {
+        "park_id": 19,
+        "url": "https://www.nps.gov/olsp/index.htm",
+        "fullName": "Old Spanish National Historic Trail",
+        "parkCode": "olsp",
+        "description": "Follow the routes of mule pack trains across the Southwest on the Old Spanish National Historic Trail between Santa Fe, New Mexico, and Los Angeles, California. New Mexican traders moved locally produced merchandise across what are now six states to exchange for mules and horses.",
+        "latitude": "37.0791782514",
+        "longitude": "-112.114693431"
+    },
+    {
+        "park_id": 20,
+        "url": "https://www.nps.gov/pinn/index.htm",
+        "fullName": "Pinnacles National Park",
+        "parkCode": "pinn",
+        "description": "Some 23 million years ago multiple volcanoes erupted, flowed, and slid to form what would become Pinnacles National Park. What remains is a unique landscape. Travelers journey through chaparral, oak woodlands, and canyon bottoms. Hikers enter rare talus caves and emerge to towering rock spires teeming with life: prairie and peregrine falcons, golden eagles, and the inspiring California condor.",
+        "latitude": "36.49029208",
+        "longitude": "-121.1813607"
+    },
+    {
+        "park_id": 21,
+        "url": "https://www.nps.gov/pore/index.htm",
+        "fullName": "Point Reyes National Seashore",
+        "parkCode": "pore",
+        "description": "From its thunderous ocean breakers crashing against rocky headlands and expansive sand beaches to its open grasslands, brushy hillsides, and forested ridges, Point Reyes offers visitors over 1500 species of plants and animals to discover. Home to several cultures over thousands of years, the Seashore preserves a tapestry of stories and interactions of people. Point Reyes awaits your exploration.",
+        "latitude": "38.05511241",
+        "longitude": "-122.8797804"
+    },
+    {
+        "park_id": 22,
+        "url": "https://www.nps.gov/poex/index.htm",
+        "fullName": "Pony Express National Historic Trail",
+        "parkCode": "poex",
+        "description": "It is hard to believe that young men once rode horses to carry mail from Missouri to California in the unprecedented time of only 10 days. This relay system along the Pony Express National Historic Trail in eight states was the most direct and practical means of east-west communications before the telegraph.",
+        "latitude": "42.2365761128",
+        "longitude": "-109.266148417"
+    },
+    {
+        "park_id": 23,
+        "url": "https://www.nps.gov/prsf/index.htm",
+        "fullName": "Presidio of San Francisco",
+        "parkCode": "prsf",
+        "description": "For 218 years, the Presidio served as an army post for three nations. World and local events, from military campaigns to World Fairs and earthquakes, left their mark. Come enjoy the history and the natural beauty of the Presidio. Explore centuries of architecture. Reflect in a national cemetery. Walk along an historic airfield, through forests or to beaches, and admire spectacular vistas.",
+        "latitude": "37.797",
+        "longitude": "-122.4671"
+    },
+    {
+        "park_id": 24,
+        "url": "https://www.nps.gov/redw/index.htm",
+        "fullName": "Redwood National and State Parks",
+        "parkCode": "redw",
+        "description": "Most people know Redwood as home to the tallest trees on Earth. But the Parks also protect vast prairies, oak woodlands, wild rivers, and 40 miles of rugged coastline. People have lived in this verdant landscape since time immemorial. Together, the National Park Service and California State Parks are managing and restoring these lands for the inspiration, enjoyment, and education of all.",
+        "latitude": "41.37237268",
+        "longitude": "-124.0318129"
+    },
+    {
+        "park_id": 25,
+        "url": "https://www.nps.gov/safr/index.htm",
+        "fullName": "San Francisco Maritime National Historical Park",
+        "parkCode": "safr",
+        "description": "Located in the Fisherman's Wharf neighborhood, San Francisco Maritime National Historical Park offers visitors the sights, sounds, smells and stories of Pacific Coast maritime history. The Park includes a magnificent fleet of historic ships, a Visitor Center, Maritime Museum, Maritime Research Center, and Aquatic Park Historic District.",
+        "latitude": "37.81005871",
+        "longitude": "-122.4244415"
+    },
+    {
+        "park_id": 26,
+        "url": "https://www.nps.gov/samo/index.htm",
+        "fullName": "Santa Monica Mountains National Recreation Area",
+        "parkCode": "samo",
+        "description": "The Santa Monica Mountains offer easy access to surprisingly wild places. Experience the famous beaches of Malibu or explore more than 500 miles of trails. The park abounds with historical and cultural sites, from old movie ranches to Native American centers. What will you and your family discover?",
+        "latitude": "34.09777606",
+        "longitude": "-118.7708619"
+    },
+    {
+        "park_id": 27,
+        "url": "https://www.nps.gov/seki/index.htm",
+        "fullName": "Sequoia and Kings Canyon National Parks",
+        "parkCode": "seki",
+        "description": "Huge mountains, rugged foothills, deep canyons, vast caverns, and the world’s largest trees exemplify the diversity of landscapes, life, and beauty here. Explore these pages to learn about the plants and animals here and the threats they face. Our ancient giant sequoias may seem invincible, but they, too are vulnerable.",
+        "latitude": "36.71277299",
+        "longitude": "-118.587429"
+    },
+    {
+        "park_id": 28,
+        "url": "https://www.nps.gov/tule/index.htm",
+        "fullName": "Tule Lake National Monument",
+        "parkCode": "tule",
+        "description": "The Tule Lake National Monument includes both Tule Lake Segregation Center, the largest and most controversial of the sites where Japanese Americans were incarcerated during World War II, and Camp Tulelake, which was first a Civilian Conservation Corps camp, then an additional facility to detain Japanese Americans, and finally a prisoner of war camp.",
+        "latitude": "41.88727902",
+        "longitude": "-121.3744818"
+    },
+    {
+        "park_id": 29,
+        "url": "https://www.nps.gov/whis/index.htm",
+        "fullName": "Whiskeytown National Recreation Area",
+        "parkCode": "whis",
+        "description": "Whiskeytown Lake's crystal-clear water is perhaps the most recognized feature of the park. However, water-based recreation is only a part of what the 42,000-acre Whiskeytown National Recreation Area has to offer. Visit waterfalls, hike through rugged mountains, explore California Gold Rush history, and observe post-fire ecology in action. Your national park is calling...",
+        "latitude": "40.61359941",
+        "longitude": "-122.6022657"
+    },
+    {
+        "park_id": 30,
+        "url": "https://www.nps.gov/yose/index.htm",
+        "fullName": "Yosemite National Park",
+        "parkCode": "yose",
+        "description": "Not just a great valley, but a shrine to human foresight, the strength of granite, the power of glaciers, the persistence of life, and the tranquility of the High Sierra. First protected in 1864, Yosemite National Park is best known for its waterfalls, but within its nearly 1,200 square miles, you can find deep valleys, grand meadows, ancient giant sequoias, a vast wilderness area, and much more.",
+        "latitude": "37.84883288",
+        "longitude": "-119.5571873"
+    }
+]
