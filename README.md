@@ -27,10 +27,10 @@
 <br>
 <br>
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://www.zionponderosa.com/wp-content/uploads/2019/05/rich-martello-367451-unsplash-862x479.jpg" alt="Photo 1" width="20%" maxWidth="100px" height="100px">
+<!--   <img src="https://www.zionponderosa.com/wp-content/uploads/2019/05/rich-martello-367451-unsplash-862x479.jpg" alt="Photo 1" width="20%" maxWidth="100px" height="100px"> -->
   <img src="https://news.harvard.edu/wp-content/uploads/2019/09/leo-serrat_unsplash-1-1600x900.jpg" alt="Photo 2" width="20%" maxWidth="100px" height="100px">
-  <img src="https://i.ontraport.com/224876.58ad91c170962f6d3f178a6909f4c7ab.PNG" alt="Photo 3" width="20%" maxWidth="100px" height="100px">
-  <img src="https://www.worldatlas.com/upload/54/4b/04/arches-national-park-utah-us-josemaria-toscano.jpg" alt="Photo 4" width="20%" maxWidth="100px" height="100px">
+<!--   <img src="https://i.ontraport.com/224876.58ad91c170962f6d3f178a6909f4c7ab.PNG" alt="Photo 3" width="20%" maxWidth="100px" height="100px"> -->
+<!--   <img src="https://www.worldatlas.com/upload/54/4b/04/arches-national-park-utah-us-josemaria-toscano.jpg" alt="Photo 4" width="20%" maxWidth="100px" height="100px"> -->
 </div>
 
 <h2 align="center">Instructions</h2>
@@ -57,8 +57,8 @@
           <td>
             <h4>Backend Challenge 1</h4>
             <div>Point Value: 100</div>
-            <div>In order to complete the backend challenge, you must have SQL Server Management Studio downloaded.</div>
-		  <div>Create a database using the give [parks.json](https://github.com/ava-greta-schock/coding-challenge-nov-2023/blob/main/parks.json) data in the repository </div>
+            <div>In order to complete the backend challenge, you must have <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank">SQL Server Management Studio</a> downloaded.</div>
+	    <div>Create a database using the given json object in <a href="https://github.com/ava-greta-schock/coding-challenge-nov-2023/blob/main/parks.json" target="_blank">parks.json</a></div>
 		<ul></ul>
           </td>
       </tr>
