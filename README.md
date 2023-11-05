@@ -49,21 +49,17 @@
   <!-- First Challenge -->
       <tr width="600px">
         <td>
-            <h4>Challenge 1</h4>
-            <div>Point Value</div>
+            <h4>Frontend Challenge 1</h4>
+            <div>Point Value: 100</div>
             <div>PUT IN DESCRIPTION HERE</div>
+		<ul></ul>
           </td>
           <td>
-            <h2>Challenge 1: Build out your database!</h2>
-            <div>Point Value</div>
-	            <h3>Build the following components: </h3>
-	                <div>A database for your National Park Data:</div>
-		                <ul>
-		                    <li>Data must be held in some type of database software (SQL Server, MySql, etc.) </li>
-		                    <li>Must include at least two tables with multiple columns, including primary/foreign keys.</li>
-		                    <li>Must include at least one table with at least 10 or more rows of data, not including relationship tables.</li>
-		                    <li>Must establish some type of relationship between the two tables (one-to-one, one-to-many, many-to-one, many-to-many)</li>
-		              </ul>
+            <h4>Backend Challenge 1</h4>
+            <div>Point Value: 100</div>
+            <div>In order to complete the backend challenge, you must have SQL Server Management Studio downloaded.</div>
+		  <div>Create a database using the give [parks.json](https://github.com/ava-greta-schock/coding-challenge-nov-2023/blob/main/parks.json) data in the repository </div>
+		<ul></ul>
           </td>
       </tr>
       <tr width="600px">
