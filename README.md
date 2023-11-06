@@ -63,18 +63,6 @@
 	<div>If you need further help, checkout these resources.</div>
           </td>
       </tr>
-      <tr width="600px">
-        <td>
-        <!--           Uncomment div below if completed -->
-        <!--            <div>Completed? :white_check_mark:</div> -->
-          <div>Completed? :x:</div>
-        </td>
-      <td>
-        <!--           Uncomment div below if completed -->
-        <!--            <div>Completed? :white_check_mark:</div> -->
-          <div>Completed? :x:</div>
-      </td>
-    </tr>
     <!-- Second Challenge -->
     <tr width="600px">
         <td>
@@ -108,18 +96,6 @@
                 </ul>
           </td>
       </tr>
-      <tr width="600px">
-        <td>
-          <!--           Uncomment div below if completed -->
-          <!--            <div>Completed? :white_check_mark:</div> -->
-          <div>Completed? :x:</div>
-        </td>
-      <td>
-        <!--           Uncomment div below if completed -->
-        <!--            <div>Completed? :white_check_mark:</div> -->
-          <div>Completed? :x:</div>
-      </td>
-  </tr>
       <!-- Third Challenge -->
     <tr width="600px">
         <td>
@@ -143,18 +119,6 @@
                     <li>Data must be in JSON format</li>
                 </ul>
       </tr>
-      <tr width="600px">
-        <td>
-          <!--           Uncomment div below if completed -->
-          <!--            <div>Completed? :white_check_mark:</div> -->
-          <div>Completed? :x:</div>
-        </td>
-      <td>
-        <!--           Uncomment div below if completed -->
-        <!--            <div>Completed? :white_check_mark:</div> -->
-          <div>Completed? :x:</div>
-      </td>
-  </tr>
       <!-- Fourt Challenge -->
     <tr width="600px">
         <td>
@@ -181,18 +145,6 @@
                 </ul>
           </td>
       </tr>
-      <tr width="600px">
-        <td>
-          <!--           Uncomment div below if completed -->
-          <!--            <div>Completed? :white_check_mark:</div> -->
-          <div>Completed? :x:</div>
-        </td>
-      <td>
-        <!--           Uncomment div below if completed -->
-        <!--            <div>Completed? :white_check_mark:</div> -->
-          <div>Completed? :x:</div>
-      </td>
-  </tr>
       <!-- Fifth Challenge -->
     <tr width="600px">
         <td>
@@ -218,20 +170,7 @@
                     <li>Data must be in JSON format (if applicable)</li>
                 </ul>
           </td>
-      </tr>
-      <tr width="600px">
-        <td>
-          <!--           Uncomment div below if completed -->
-          <!--            <div>Completed? :white_check_mark:</div> -->
-          <div>Completed? :x:</div>
-        </td>
-      <td>
-        <!--           Uncomment div below if completed -->
-        <!--            <div>Completed? :white_check_mark:</div> -->
-          <div>Completed? :x:</div>
-      </td>
-  </tr>
-   
+      </tr>   
   </tbody>
 </table>
 
