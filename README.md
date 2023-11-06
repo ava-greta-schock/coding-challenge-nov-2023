@@ -1,4 +1,3 @@
-
 <h1 align="center">Welcome to PacWest's November Coding Challenge!</h1>
   
 <div align="center"><i>The purpose of PacWest's monthly Coding Challenge is to create a constant opportunity for developers to upskill their coding abilities, cultivate accomplishments to reference during role discussions, and build SWE community engagement through fun and captivating projects.</i></div>
@@ -80,8 +79,17 @@
     <tr width="600px">
         <td>
             <h4>Challenge 2</h4
-            <div>Point Value</div>
-            <div>PUT IN DESCRIPTION HERE</div>
+            <div>Point Value: 100 points</div>
+            <div>Utilizing the National Park data stored in parks.json, iterate through the data to create the following key components for the National Park landing page. You must use Material UI as your CSS framework. The landing page must include each park's:
+</div>
+		<ul>
+			<li>Full name of the National Park</li>
+			<li>National Park Description</li>
+			<li>Latitude + Longitude</li>
+			<li>An image referenced from the provided URL</li>
+			<li>A star icon to favorite a park. If the user clicks on a start icon, then the star icon will have a stylization change to indicate state.</li>
+			<li>A hyperlink to open a new window for further park information</li>
+		</ul>
           </td>
           <td>
              <h2>Challenge 2: Start your back-end project and create your models!</h2>
