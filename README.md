@@ -50,16 +50,20 @@
         <td>
             <h4>Frontend Challenge 1: "Hello World" Page</h4>
             <div>Point Value: 100</div>
-            <div>Follow the given tutorial to create a "hello world" working app.</div>
-		<hr>
-	    <div>If you need further help, checkout these resources.</div>
+            <div>Create a working frontend webpage with React and Next.js. To complete the first step of the frontend challenge, you must complete the following steps in the <a href="https://nextjs.org/" target="_blank">Next.js </a>- Create Your First App tutorial:</div>
+	    <ul>
+		    <li><a href="https://nextjs.org/learn-pages-router/basics/create-nextjs-app" target="_blank">Create a Next.js App</a></li>
+		    <li><a href="https://nextjs.org/learn-pages-router/basics/navigate-between-pages" target="_blank">Navigate Between Pages</a></li>
+		    <li><a href="https://nextjs.org/learn-pages-router/basics/assets-metadata-css" target="_blank">Assets, Metadata, and CSS</a></li>
+	    </ul>
+                <br>
+             <div>Note: If you plan on completing the full stack challenge, we recommend you complete the each step Next.js Create Your First App tutorial</div>	
           </td>
           <td>
             <h4>Backend Challenge 1</h4>
             <div>Point Value: 100</div>
             <div>In order to complete the backend challenge, you must have <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank">SQL Server Management Studio</a> downloaded.</div>
 	    <div>Create a database using the given json object in <a href="https://github.com/ava-greta-schock/coding-challenge-nov-2023/blob/main/parks.json" target="_blank">parks.json</a></div>
-	<hr>
 	<div>If you need further help, checkout these resources.</div>
           </td>
       </tr>
