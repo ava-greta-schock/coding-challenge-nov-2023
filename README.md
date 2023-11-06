@@ -49,17 +49,19 @@
   <!-- First Challenge -->
       <tr width="600px">
         <td>
-            <h4>Frontend Challenge 1</h4>
+            <h4>Frontend Challenge 1: "Hello World" Page</h4>
             <div>Point Value: 100</div>
-            <div>PUT IN DESCRIPTION HERE</div>
-		<ul></ul>
+            <div>Follow the given tutorial to create a "hello world" working app.</div>
+		<hr>
+	    <div>If you need further help, checkout these resources.</div>
           </td>
           <td>
             <h4>Backend Challenge 1</h4>
             <div>Point Value: 100</div>
             <div>In order to complete the backend challenge, you must have <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank">SQL Server Management Studio</a> downloaded.</div>
 	    <div>Create a database using the given json object in <a href="https://github.com/ava-greta-schock/coding-challenge-nov-2023/blob/main/parks.json" target="_blank">parks.json</a></div>
-		<ul></ul>
+	<hr>
+	<div>If you need further help, checkout these resources.</div>
           </td>
       </tr>
       <tr width="600px">
