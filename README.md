@@ -169,8 +169,12 @@
     <tr width="600px">
         <td>
             <h4>Challenge 5</h4>
-            <div>Point Value</div>
-            <div>PUT IN DESCRIPTION HERE</div>
+            <div>Point Value: 100 points</div>
+            <div>Finally, you will ensure that your National Park app functions as expected and is accessible by all users. You must:</div>
+		<ol>
+			<li>Select <a href="https://nextjs.org/docs/pages/building-your-application/optimizing/testing" target="_blank">a testing library associated with Next.js</a> and test your application.</li>
+			<li>Receive an accessibility score of at least 90% with <a href="https://developer.chrome.com/docs/lighthouse/overview/" target="_blank">Google Lighthous</a></li>
+		</ol>
           </td>
           <td>
             <h2>Challenge 5: Create your DTOs</h2>
