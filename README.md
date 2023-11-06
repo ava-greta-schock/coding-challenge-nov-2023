@@ -137,12 +137,18 @@
     <tr width="600px">
         <td>
             <h4>Challenge 4</h4>
-            <div>Point Value</div>
-            <div>PUT IN DESCRIPTION HERE</div>
+            <div>Point Value: 100 points</div>
+            <div>Now, utilize the activities.json file create components based on the activities each park provides. On the park-specific pages, you will need:</div>
+		<ul>
+			<li>An <a href="https://developers.google.com/maps" target="_blank">interactive map feature</a> based on latitude and longitude</li>
+			<li>A list of activities associated with the given park (NOTE: need to talk to Nathan about adding an activities.json file)</li>
+			<li>Search functionality based on any data point associated with a particular park (you decide: name, activity, etc.)</li>
+			<li>Any other components you think would be useful to the user utilizing both the parks.json and activities.json file. Have fun here! Make it what you want.</li>
+		</ul>
           </td>
           <td>
             <h2>Challenge 4: Create your Services & Finish Your APIs</h2>
-            <div>Point Value</div>
+            <div>Point Value: 100 points</div>
             <h3>Build the following components: </h3>
                 <div>A folder that includes your service files: </div>
                 <ul>
