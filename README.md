@@ -48,7 +48,7 @@
   <!-- First Challenge -->
       <tr width="600px">
         <td>
-            <h4>Frontend Challenge 1: "Hello World" Page</h4>
+            <h4>Challenge 1</h4>
             <div>Point Value: 100</div>
             <div>Create a working frontend webpage with React and Next.js. To complete the first step of the frontend challenge, you must complete the following steps in the <a href="https://nextjs.org/" target="_blank">Next.js </a>- Create Your First App tutorial:</div>
 	    <ul>
@@ -72,14 +72,14 @@
         <td>
             <h4>Challenge 2</h4
             <div>Point Value: 100 points</div>
-            <div>Utilizing the National Park data stored in parks.json, iterate through the data to create the following key components for the National Park landing page. You must use Material UI as your CSS framework. The landing page must include each park's:
-</div>
+            <div>Utilizing the National Park data stored in parks.json, <a href="https://react.dev/learn/rendering-lists" target="_blank">iterate</a> through the national park data to create a National Park landing page. Use <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">Bootstrap</a> as a frontend component library</div>
+		<br>
+		<div>The landing page must have a navigation bar with a home button. Additionally, the landing page must include each park's key data components:</div>
 		<ul>
 			<li>Full name of the National Park</li>
 			<li>National Park Description</li>
 			<li>Latitude + Longitude</li>
 			<li>An image referenced from the provided URL</li>
-			<li>A star icon to favorite a park. If the user clicks on a start icon, then the star icon will have a stylization change to indicate state.</li>
 			<li>A hyperlink to open a new window for further park information</li>
 		</ul>
           </td>
