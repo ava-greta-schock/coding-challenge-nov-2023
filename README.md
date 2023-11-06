@@ -104,8 +104,18 @@
     <tr width="600px">
         <td>
             <h4>Challenge 3</h4>
-            <div>Point Value</div>
-            <div>PUT IN DESCRIPTION HERE</div>
+            <div>Point Value: 100 points</div>
+            <div>Transform the existing landing page into a simple list of the National Parks names. Ultimately, when the user clicks on it a park name, it will lead the user to a new park-specific page. You must include all of the static components from Step Two of the frontend challenge (name, description, etc.) in each individual page.</div>
+		<br>
+		<div>Additionally, you will use the React function <a href="https://react.dev/learn/rendering-lists" target="_blank">useState</a> to create the following interactive components for the user:</div>
+		<ul>
+			<li>A star icon to favorite a park. If the user clicks on a star icon, then the icon change format to indicate that it is favorited</li>
+			<li>A badge that indicates the type of park (National Park, Historical Trail, etc.)</li>
+			<li>A search feature located in the navigation bar based on park name</li>
+			<li>A description on whether the park is in northern or southern California</li>
+		</ul>
+		<br>
+		<div>HINT: Think about creating reusable components. Is it better to use Next.js pages, props, or both? What identifier can you utilize in the parks.json file to ensure that each component has its own key? You as the developer must decide.</div>
           </td>
           <td>
               <h2>Challenge 3: Create your Repositories & Controllers</h2>
