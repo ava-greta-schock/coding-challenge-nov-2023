@@ -1,0 +1,66 @@
+[
+    {
+        "activity_id": 1,
+        "name": "Arts and Culture"
+    },
+    {
+        "activity_id": 2,
+        "name": "Biking"
+    },
+    {
+        "activity_id": 3,
+        "name": "Boating"
+    },
+    {
+        "activity_id": 4,
+        "name": "Camping"
+    },
+    {
+        "activity_id": 5,
+        "name": "Climbing"
+    },
+    {
+        "activity_id": 6,
+        "name": "Fishing"
+    },
+    {
+        "activity_id": 7,
+        "name": "Flying"
+    },
+    {
+        "activity_id": 8,
+        "name": "Surfing"
+    },
+    {
+        "activity_id": 9,
+        "name": "Paddling"
+    },
+    {
+        "activity_id": 10,
+        "name": "Skiing"
+    },
+    {
+        "activity_id": 11,
+        "name": "Snowshoeing"
+    },
+    {
+        "activity_id": 12,
+        "name": "Swimming"
+    },
+    {
+        "activity_id": 13,
+        "name": "Hiking"
+    },
+    {
+        "activity_id": 14,
+        "name": "Food"
+    },
+    {
+        "activity_id": 15,
+        "name": "Shopping"
+    },
+    {
+        "activity_id": 16,
+        "name": "Wildlife Watching"
+    }
+]
