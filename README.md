@@ -198,7 +198,7 @@
   </tbody>
 </table>
 
-## Coding Suggestions
+## Resources
 
 Front-End:
 
@@ -219,45 +219,9 @@ Databases
 - [Azure SQL Database ledger tables](https://docs.microsoft.com/en-us/azure/azure-sql/database/ledger-overview?WT.mc_id=AI-MVP-5004204)
 - [Azure Confidential Ledger](https://docs.microsoft.com/en-gb/azure/confidential-ledger/?WT.mc_id=AI-MVP-5004204)
 
-```
-These are provided as examples. Include links to components you have used, or delete this section.
-DELETE THIS COMMENT
-```
 
-## Documentation
-
-The `docs` folder contains [more detailed documentation](./docs/start-here.md), along with setup instructions.
-
-```
-Add an optional installation or usage section, if the instructions are <3 lines
-e.g.
-### Installation
-
-### Usage
-
-DELETE THIS COMMENT
-```
-
-## Licensing
-
-avanade-template is UNLICENSED and for internal use only, without legal review. See the Avanade Open Source site to start legal approvals.
-
-## Contact
-
-Feel free to [raise an issue on GitHub](https://github.com/Avanade/avanade-template/issues), or see our [security disclosure](./SECURITY.md) policy.
-
-## Contributing
-
-Contributions are welcome. See information on [contributing](./CONTRIBUTING.md), as well as our [code of conduct](https://avanade.github.io/code-of-conduct/). Avanade asks that all commits sign the [Developer Certificate of Origin](https://developercertificate.org/).
-
-If you're happy to follow these guidelines, then check out the [getting started](./docs/start-here.md) guide.
 
 ## Who is Avanade?
 
 [Avanade](https://www.avanade.com) is the leading provider of innovative digital, cloud and advisory services, industry solutions and design-led experiences across the Microsoft ecosystem.
 
-```
-If needed, review the Open Source site on the intranet for more information.
-
-Full details at https://avanade.sharepoint.com/sites/opensource
-```
