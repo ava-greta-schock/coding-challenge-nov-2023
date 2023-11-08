@@ -8,7 +8,7 @@
 
 :dart: At the end of each month, each submission's points will be tallied by the PacWest team. Participants who show exceptional work in either a Full Stack, Frontend, or Backend capacity will be recognized in SWE's Monthly CoreTech meeting and the [Coding Challenge SharePoint](https://avanade.sharepoint.com/sites/PacWestSWE/SitePages/Greta%27s-Test-Page.aspx?OR=Teams-HL&CT=1695073757100&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA5MDExMjIyOSIsIkhhc0ZlZGVyYXRlZFVzZXIiOnRydWV9#exceptional-projects-in-september-s-coding-challenge)
 
-:trophy: Points are tallied on a continuous basis. The top five participants will be listed in the [Coding Challenge leaderboard](https://avanade.sharepoint.com/sites/PacWestSWE/SitePages/Greta%27s-Test-Page.aspx?OR=Teams-HL&CT=1695073757100&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA5MDExMjIyOSIsIkhhc0ZlZGVyYXRlZFVzZXIiOnRydWV9#coding-challenge-leaderboard). For every 2000 points you earn through Coding Challenge, you will be awarded 2000 [GoTeam points](https://cloud.workhuman.com/microsites/t/home?client=avanade&setCAG=false)!
+:trophy: Points are tallied on a continuous basis. The top five participants will be listed in the [Coding Challenge leaderboard](https://avanade.sharepoint.com/sites/PacWestSWE/SitePages/Greta%27s-Test-Page.aspx?OR=Teams-HL&CT=1695073757100&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA5MDExMjIyOSIsIkhhc0ZlZGVyYXRlZFVzZXIiOnRydWV9#coding-challenge-leaderboard). 
 
 :dizzy: <b>Remember</b>: this is a time to challenge yourself, try out new tech, and have fun!
 
@@ -17,6 +17,7 @@
 <hr>
 
 <h2 align="center">:arrow_down: To get started: fork this repository and follow the steps listed below :arrow_down:</h2>
+<hr>
 <br>
 <br>
 <p align="center">
@@ -216,8 +217,7 @@
 
 Front-End:
 
-1. Angular: [Angular | A Beginners Guide | Get Started with Angular in 10 mins | Geek Culture (medium.com)](https://medium.com/geekculture/angular-a-beginners-guide-f8cd9ee7325)
-2. React: [Getting Started with React: A Beginner’s Guide | by A-Tech Studios | Sep, 2023 | Medium](https://medium.com/@A-Tech-Studios/getting-started-with-react-a-beginners-guide-1d876eb6db37)
+React: [Getting Started with React: A Beginner’s Guide | by A-Tech Studios | Sep, 2023 | Medium](https://medium.com/@A-Tech-Studios/getting-started-with-react-a-beginners-guide-1d876eb6db37)
 
 Back-End
 
