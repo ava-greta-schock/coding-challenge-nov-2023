@@ -124,21 +124,23 @@
 		</ul>
 		<br>
 		<div>HINT: Think about creating reusable components. Is it better to use Next.js pages, props, or both? What identifier can you utilize in the parks.json file to ensure that each component has its own key? You as the developer must decide.</div>
-          </td>
+        <br>  
+	</td>
           <td>
               <h3>Challenge 3 | 100 points</h3>
-            <h3>Build the following components: </h3>
-                <div>A folder that includes your repository files: </div>
+                <div>Having completed the GET mapping, now it's time to finish your POST, PUT, and DELETE mappings. Establish full API calls to the database with CRUD behavior (In Spring Boot, they're labeled as @GetMapping, @PostMapping, @PutMapping, and @DeleteMapping)</div>
                 <ul>
-                    <li>Must establish a database connection</li>
+                    <li>CRUD call types (when applicable):</li>
+			<ul>
+				<li>CRUD specific queried data from database - by ID</li>
+				<li>CRUD specific queried data from database - by column</li>
+			</ul>
                     <li>Certain programming languages have different approaches when building these out (JPA Repository in Java, EF Core in C#), so try to follow their conventions</li>
+			<li>Use Provided folders to created needed files (not including DTOs)</li>
+			<li>Use screenshots from Postman to prove your functionality</li>
                 </ul>
-                 <div>A folder including your controllers:</div>
-                <ul>
-                    <li>Provide at least THREE different methods of receiving data.</li>
-                    <li>Use either a third-party software (Postman) or browser to test your controller</li>
-                    <li>Data must be in JSON format</li>
-                </ul>
+		  <br>
+		  <div>NOTE: Try to use Spring Boot's built-in methods to complete the mapping. You likely will not need to create custom SQL queries.</div>
       </tr>
       <!-- Fourth Challenge -->
     <tr width="600px">
