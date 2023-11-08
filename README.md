@@ -158,20 +158,31 @@
           </td>
           <td>
             <h3>Challenge 4 | 100 points</h3>
-            <h3>Build the following components: </h3>
-                <div>A folder that includes your service files: </div>
+                <div>Expand your database by implementing relationships between tables and can make proper CRUD calls to to new entities. New table creation is encouraged to be based off of user interactivity. Think about how you would store data for specific users</div>
+		  <br> 
+		  <div>Create new table/storage for the relational database:</div>
                 <ul>
-                    <li>Must create a service file for each table created in your database</li>
-                    <li>Services are meant to do the work of retrieving & manipulating data</li>
-                    <li>Adjust controllers accordingly so that they may call methods from services rather than perform them</li>
+                    <li>Activities.json</li>
+                    <li>Parks_Activities.json (relationship table, many-to-many)</li>
                 </ul>
-                 <div>Finish your REST APIs</div>
-                <ul>
-                    <li>Create the services that will be able to POST, PUT, and DELETE data from your database</li>
-                    <li>Follow procedures and conventions from your coding language when creating services to grab & manipulate data from the db.</li>
-                    <li>Use either a third-party software (Postman) or browser to test your controller</li>
-                    <li>Data must be in JSON format (if applicable)</li>
+		  <br>
+		  <ul>
+			  <li>CRUD all new data from database</li>
+			  <li>CRUD specific queried data from database - by ID</li>
+			  <li>CRUD specific queried data from database - by column</li>
+			  <li></li>
+		  </ul>
+		  <br>
+		  <div>Keep in mind...</div>
+                 <ul>
+			 <li>Make modifications to your current code when needed</li>
+			 <li>Use Provided folders to created needed files (not including DTOs)</li>
+		         <li>Use screenshots of <a href="https://www.postman.com/" target="_blank">Postman</a> responses to prove your functionality</li>
+			 <li></li>
                 </ul>
+		  <br>
+		  <div>NOTE: For complex database calls, you may have to create custom SQL queries within your repos. However, challenge yourself by using Spring Boot's built-in methods to complete your mappings until its needed</div>
+		  <br>
           </td>
       </tr>
       <!-- Fifth Challenge -->
