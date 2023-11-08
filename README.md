@@ -26,10 +26,10 @@
 <br>
 <br>
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-<!--   <img src="https://www.zionponderosa.com/wp-content/uploads/2019/05/rich-martello-367451-unsplash-862x479.jpg" alt="Photo 1" width="20%" maxWidth="100px" height="100px"> -->
+  <img src="https://th.bing.com/th/id/OIP.mAJLI88_s5LmBld-BtNfNAAAAA?pid=ImgDet&rs=1" alt="Photo 1" width="20%" maxWidth="100px" height="100px">
   <img src="https://news.harvard.edu/wp-content/uploads/2019/09/leo-serrat_unsplash-1-1600x900.jpg" alt="Photo 2" width="20%" maxWidth="100px" height="100px">
-<!--   <img src="https://i.ontraport.com/224876.58ad91c170962f6d3f178a6909f4c7ab.PNG" alt="Photo 3" width="20%" maxWidth="100px" height="100px"> -->
-<!--   <img src="https://www.worldatlas.com/upload/54/4b/04/arches-national-park-utah-us-josemaria-toscano.jpg" alt="Photo 4" width="20%" maxWidth="100px" height="100px"> -->
+  <img src="https://sfo2.digitaloceanspaces.com/cwblog/2019/05/30092101/GettyImages-941249794.jpg" alt="Photo 3" width="20%" maxWidth="100px" height="100px">
+  <img src="https://th.bing.com/th/id/OIP.M8ayL-GVhkqC7cQ8OoBYvwHaE7?pid=ImgDet&rs=1" alt="Photo 4" width="20%" maxWidth="100px" height="100px">
 </div>
 
 <h2 align="center">Instructions</h2>
