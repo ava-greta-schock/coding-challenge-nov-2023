@@ -12,7 +12,7 @@
 
 :dizzy: <b>Remember</b>: this is a time to challenge yourself, try out new tech, and have fun!
 
-:email: Once completed, please submit your repository to pacwest@avanade.com. We will then send you a form to see how the challenge went.
+:email: Once completed, please submit your repository to pacwest@avanade.com. We will then send you a reflection form to fill out.
 
 <hr>
 
@@ -98,7 +98,7 @@
 		    <li>GET specific queried data from database - by column</li>
                 </ul>
 		  <br>
-                 <div>Use screenshots from <a href="https://www.postman.com/" target="_blank">Postman</a> to prove your functionality</div>
+                 <div>Use screenshots of <a href="https://www.postman.com/" target="_blank">Postman</a> responses to prove your functionality</div>
 		  <div>Requires: </div>
                 <ul>
                     <li>DAO Layer (for Repositories)</li>
@@ -128,7 +128,9 @@
 	</td>
           <td>
               <h3>Challenge 3 | 100 points</h3>
-                <div>Having completed the GET mapping, now it's time to finish your POST, PUT, and DELETE mappings. Establish full API calls to the database with CRUD behavior (In Spring Boot, they're labeled as @GetMapping, @PostMapping, @PutMapping, and @DeleteMapping)</div>
+                <div>Having completed the GET mapping, now it's time to finish your POST, PUT, and DELETE mappings.</div>
+		  <br>
+		<div>Establish full API calls to the database with CRUD behavior (In Spring Boot, they're labeled as @GetMapping, @PostMapping, @PutMapping, and @DeleteMapping)</div>
                 <ul>
                     <li>CRUD call types (when applicable):</li>
 			<ul>
@@ -137,7 +139,7 @@
 			</ul>
                     <li>Certain programming languages have different approaches when building these out (JPA Repository in Java, EF Core in C#), so try to follow their conventions</li>
 			<li>Use Provided folders to created needed files (not including DTOs)</li>
-			<li>Use screenshots from Postman to prove your functionality</li>
+			<li>Use screenshots of <a href="https://www.postman.com/" target="_blank">Postman</a> responses to prove your functionality</li>
                 </ul>
 		  <br>
 		  <div>NOTE: Try to use Spring Boot's built-in methods to complete the mapping. You likely will not need to create custom SQL queries.</div>
