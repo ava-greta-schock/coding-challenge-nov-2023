@@ -61,6 +61,7 @@
           <td>
             <h3>Challenge 1 | 100 points</h3>
             <div>In order to complete the backend challenge, you must have <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank">SQL Server Management Studio</a> downloaded.</div>
+		  <br>
 	    <div>Establish a simple database system from an assigned system with primary table/object and can populate table with the given <a href="https://github.com/ava-greta-schock/coding-challenge-nov-2023/blob/main/parks.json" target="_blank">parks.json</a></div>
 		  <ul>
 			  <li>Use the parks.json file within the repo & convert it to a SQL Server table</li>
@@ -68,6 +69,7 @@
 			  <li>Display primary data. Use SELECT queries to prove you can access the data</li>
 			  <li>You may change or add new data as you please. However, please have at least 5 columns (not including the id)</li>
 		  </ul>
+		  <br>
           </td>
       </tr>
     <!-- Second Challenge -->
@@ -87,14 +89,16 @@
           </td>
           <td>
              <h3>Challenge 2 | 100 points</h3>
-                <div>Establish a connection (primary controller) for their initial database connection.</div>
-		  <div>GET calls from database</div>
+                <div>Establish a connection (primary controller) for an initial database connection (we recommend <a href="https://www.codejava.net/frameworks/spring-boot/connect-to-microsoft-sql-server-examples" target="_blank">Spring Boot</a>.</div>
+		 <br>
+		  <div>Create a series of GET calls from database: </div>
                 <ul>
-                    <li>GET all data from database!</li>
+                    <li>GET all data from database</li>
                     <li>GET specific queried data from database - by ID</li>
 		    <li>GET specific queried data from database - by column</li>
                 </ul>
-                 <div>Use screenshots from Postman to prove your functionality</div>
+		  <br>
+                 <div>Use screenshots from <a href="https://www.postman.com/" target="_blank">Postman</a> to prove your functionality</div>
 		  <div>Requires: </div>
                 <ul>
                     <li>DAO Layer (for Repositories)</li>
@@ -102,6 +106,7 @@
                     <li>Controller Layer (Use provided folders to create needed files - not including DTOs)</li>
                 </ul>
 		  <div>NOTE: Try to use Spring Boot's built-in methods to complete the mapping. You likely will not need to create custom SQL queries.</div>
+		  <br>
           </td>
       </tr>
       <!-- Third Challenge -->
