@@ -48,8 +48,7 @@
   <!-- First Challenge -->
       <tr width="600px">
         <td>
-            <h4>Challenge 1</h4>
-            <div>Point Value: 100</div>
+            <h3>Challenge 1 | 100 points</h3>
             <div>Create a working frontend webpage with React and Next.js. To complete the first step of the frontend challenge, you must complete the following steps in the <a href="https://nextjs.org/" target="_blank">Next.js </a>- Create Your First App tutorial:</div>
 	    <ul>
 		    <li><a href="https://nextjs.org/learn-pages-router/basics/create-nextjs-app" target="_blank">Create a Next.js App</a></li>
@@ -60,18 +59,21 @@
              <div>Note: If you plan on completing the full stack challenge, we recommend you complete the each step Next.js Create Your First App tutorial</div>	
           </td>
           <td>
-            <h4>Backend Challenge 1</h4>
-            <div>Point Value: 100</div>
+            <h3>Challenge 1 | 100 points</h3>
             <div>In order to complete the backend challenge, you must have <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank">SQL Server Management Studio</a> downloaded.</div>
-	    <div>Create a database using the given json object in <a href="https://github.com/ava-greta-schock/coding-challenge-nov-2023/blob/main/parks.json" target="_blank">parks.json</a></div>
-	<div>If you need further help, checkout these resources.</div>
+	    <div>Establish a simple database system from an assigned system with primary table/object and can populate table with the given JSON data<a href="https://github.com/ava-greta-schock/coding-challenge-nov-2023/blob/main/parks.json" target="_blank">parks.json</a></div>
+		  <ul>
+			  <li>Use the parks.json file within the repo & convert it to a SQL Server table</li>
+			  <li>Provide a primary key for your data, assuring that it will increment anytime new data enters</li>
+			  <li>Display primary data. Use SELECT queries to prove you can access the data</li>
+			  <li>You may change or add new data as you please. However, please have at least 5 columns (not including the id)</li>
+		  </ul>
           </td>
       </tr>
     <!-- Second Challenge -->
     <tr width="600px">
         <td>
-            <h4>Challenge 2</h4
-            <div>Point Value: 100 points</div>
+            <h3>Challenge 2 | 100 points</h3>
             <div>Utilizing the National Park data stored in parks.json, <a href="https://react.dev/learn/rendering-lists" target="_blank">iterate</a> through the national park data to create a National Park landing page. Use <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">Bootstrap</a> as a frontend component library</div>
 		<br>
 		<div>The landing page must have a navigation bar with a home button. Additionally, the landing page must include each park's key data components:</div>
@@ -84,8 +86,7 @@
 		</ul>
           </td>
           <td>
-             <h2>Challenge 2: Start your back-end project and create your models!</h2>
-            <div>Point Value</div>
+             <h3>Challenge 2 | 100 points</h3>
             <h3>Build the following components: </h3>
                 <div>A primary project to code your backend:</div>
                 <ul>
@@ -103,8 +104,7 @@
       <!-- Third Challenge -->
     <tr width="600px">
         <td>
-            <h4>Challenge 3</h4>
-            <div>Point Value: 100 points</div>
+            <h3>Challenge 3 | 100 points</h3>
             <div>Transform the existing landing page into a simple list of the National Parks names. Ultimately, when the user clicks on it a park name, it will lead the user to a new park-specific page. You must include all of the static components from Step Two of the frontend challenge (name, description, etc.) in each individual page.</div>
 		<br>
 		<div>Additionally, you will use the React function <a href="https://react.dev/learn/rendering-lists" target="_blank">useState</a> to create the following interactive components for the user:</div>
@@ -118,8 +118,7 @@
 		<div>HINT: Think about creating reusable components. Is it better to use Next.js pages, props, or both? What identifier can you utilize in the parks.json file to ensure that each component has its own key? You as the developer must decide.</div>
           </td>
           <td>
-              <h2>Challenge 3: Create your Repositories & Controllers</h2>
-            <div>Point Value</div>
+              <h3>Challenge 3 | 100 points</h3>
             <h3>Build the following components: </h3>
                 <div>A folder that includes your repository files: </div>
                 <ul>
@@ -133,11 +132,10 @@
                     <li>Data must be in JSON format</li>
                 </ul>
       </tr>
-      <!-- Fourt Challenge -->
+      <!-- Fourth Challenge -->
     <tr width="600px">
         <td>
-            <h4>Challenge 4</h4>
-            <div>Point Value: 100 points</div>
+            <h3>Challenge 4 | 100 points</h3>
             <div>Now, utilize the activities.json file create components based on the activities each park provides. On the park-specific pages, you will need:</div>
 		<ul>
 			<li>An <a href="https://developers.google.com/maps" target="_blank">interactive map feature</a> based on latitude and longitude</li>
@@ -147,8 +145,7 @@
 		</ul>
           </td>
           <td>
-            <h2>Challenge 4: Create your Services & Finish Your APIs</h2>
-            <div>Point Value: 100 points</div>
+            <h3>Challenge 4 | 100 points</h3>
             <h3>Build the following components: </h3>
                 <div>A folder that includes your service files: </div>
                 <ul>
@@ -168,8 +165,7 @@
       <!-- Fifth Challenge -->
     <tr width="600px">
         <td>
-            <h4>Challenge 5</h4>
-            <div>Point Value: 100 points</div>
+            <h3>Challenge 5 | 100 points</h3>
             <div>Finally, you will ensure that your National Park app functions as expected and is accessible by all users. You must:</div>
 		<ol>
 			<li>Select <a href="https://nextjs.org/docs/pages/building-your-application/optimizing/testing" target="_blank">a testing library associated with Next.js</a> and test your application.</li>
@@ -177,8 +173,7 @@
 		</ol>
           </td>
           <td>
-            <h2>Challenge 5: Create your DTOs</h2>
-            <div>Point Value</div>
+            <h3>Challenge 5 | 100 points</h3>
             <h3>Build the following components: </h3>
                 <div>A folder that includes your DTO files: </div>
                 <ul>
@@ -207,8 +202,8 @@ Front-End:
 
 Back-End
 
-1. Java
-2. C#
+1. https://www.sqlshack.com/import-json-data-into-sql-server/![image](https://github.com/ava-greta-schock/coding-challenge-nov-2023/assets/144385894/7899e8cc-2e01-4ad0-b401-30399fd05ca9)
+
 
 Databases
 
