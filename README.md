@@ -12,7 +12,7 @@
 
 :dizzy: <b>Remember</b>: this is a time to challenge yourself, try out new tech, and have fun!
 
-:email: Once completed, please submit your repository to pacwest@avanade.com with the given reflection questions**** filled in.
+:email: Once completed, please submit your repository to pacwest@avanade.com. We will then send you a form to see how the challenge went.
 
 <hr>
 
@@ -56,12 +56,12 @@
 		    <li><a href="https://nextjs.org/learn-pages-router/basics/assets-metadata-css" target="_blank">Assets, Metadata, and CSS</a></li>
 	    </ul>
                 <br>
-             <div>Note: If you plan on completing the full stack challenge, we recommend you complete the each step Next.js Create Your First App tutorial</div>	
+             <div>NOTE: If you plan on completing the full stack challenge, we recommend you complete the each step Next.js Create Your First App tutorial</div>	
           </td>
           <td>
             <h3>Challenge 1 | 100 points</h3>
             <div>In order to complete the backend challenge, you must have <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank">SQL Server Management Studio</a> downloaded.</div>
-	    <div>Establish a simple database system from an assigned system with primary table/object and can populate table with the given JSON data<a href="https://github.com/ava-greta-schock/coding-challenge-nov-2023/blob/main/parks.json" target="_blank">parks.json</a></div>
+	    <div>Establish a simple database system from an assigned system with primary table/object and can populate table with the given <a href="https://github.com/ava-greta-schock/coding-challenge-nov-2023/blob/main/parks.json" target="_blank">parks.json</a></div>
 		  <ul>
 			  <li>Use the parks.json file within the repo & convert it to a SQL Server table</li>
 			  <li>Provide a primary key for your data, assuring that it will increment anytime new data enters</li>
@@ -87,18 +87,21 @@
           </td>
           <td>
              <h3>Challenge 2 | 100 points</h3>
-            <h3>Build the following components: </h3>
-                <div>A primary project to code your backend:</div>
+                <div>Establish a connection (primary controller) for their initial database connection.</div>
+		  <div>GET calls from database</div>
                 <ul>
-                    <li>Choose a software that gives you a challenge! (Java, C#, Python, etc.)</li>
-                    <li>Must also choose a corresponding framework (Spring, .NET, etc.)</li>
+                    <li>GET all data from database!</li>
+                    <li>GET specific queried data from database - by ID</li>
+		    <li>GET specific queried data from database - by column</li>
                 </ul>
-                 <div>A folder including your models:</div>
+                 <div>Use screenshots from Postman to prove your functionality</div>
+		  <div>Requires: </div>
                 <ul>
-                    <li>Models must mimic tables created in the database</li>
-                    <li>If a relationship table was also made, then a model must also be created for that table</li>
-                    <li>Establish in your code primary keys and relationship types for foreign keys</li>
+                    <li>DAO Layer (for Repositories)</li>
+                    <li>Service Layer</li>
+                    <li>Controller Layer (Use provided folders to create needed files - not including DTOs)</li>
                 </ul>
+		  <div>NOTE: Try to use Spring Boot's built-in methods to complete the mapping. You likely will not need to create custom SQL queries.</div>
           </td>
       </tr>
       <!-- Third Challenge -->
@@ -203,6 +206,9 @@ Front-End:
 Back-End
 
 1. https://www.sqlshack.com/import-json-data-into-sql-server/![image](https://github.com/ava-greta-schock/coding-challenge-nov-2023/assets/144385894/7899e8cc-2e01-4ad0-b401-30399fd05ca9)
+2. Spring Boot Connect to Microsoft SQL Server Examples (codejava.net)![image](https://github.com/ava-greta-schock/coding-challenge-nov-2023/assets/144385894/03910d48-4360-4e7e-9536-cc3857fd95b6)
+3. https://www.javaguides.net/2021/07/spring-boot-tutorial-for-beginners.html
+
 
 
 Databases
