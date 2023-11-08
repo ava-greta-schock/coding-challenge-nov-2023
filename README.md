@@ -178,7 +178,6 @@
 			 <li>Make modifications to your current code when needed</li>
 			 <li>Use Provided folders to created needed files (not including DTOs)</li>
 		         <li>Use screenshots of <a href="https://www.postman.com/" target="_blank">Postman</a> responses to prove your functionality</li>
-			 <li></li>
                 </ul>
 		  <br>
 		  <div>NOTE: For complex database calls, you may have to create custom SQL queries within your repos. However, challenge yourself by using Spring Boot's built-in methods to complete your mappings until its needed</div>
@@ -197,20 +196,17 @@
           </td>
           <td>
             <h3>Challenge 5 | 100 points</h3>
-            <h3>Build the following components: </h3>
-                <div>A folder that includes your DTO files: </div>
+                <div>Establish a DTO (data transfer object) layer and modify our current mappings to return DTO types.</div>
+		  <br>
+		  <div>Implement a DTO layer into your application and can make complex/unique CRUD calls to your database.</div>
                 <ul>
-                    <li>DTOs should be similar to the models created</li>
-                    <li>Depending on how you want to grab data, you may need to make several DTO files for specific situations</li>
-                    <li>Follow conventional procedures based off your coding language</li>
+                    <li>Create DTOs for all entities (DTO folder is provided)</li>
+                    <li>Update services & controllers to return DTOs</li>
+                    <li>Establish complex mappings that lean on their new relationships between tables in the database</li>
+		    <li>Use Provided folders to created needed files (not including DTOs)</li>
+		    <li>Use screenshots of <a href="https://www.postman.com/" target="_blank">Postman</a> responses to prove your functionality</li>
                 </ul>
-                 <div>Incorporate DTOs into your services & controllers</div>
-                <ul>
-                    <li>Update your services & controllers so that they may return DTOs rather than models.</li>
-                    <li>Get creative! Your backend should now have plenty of flexibility and potential to keep making unique updates</li>
-                    <li>Use either a third-party software (Postman) or browser to test your controller</li>
-                    <li>Data must be in JSON format (if applicable)</li>
-                </ul>
+		  <br>
           </td>
       </tr>   
   </tbody>
