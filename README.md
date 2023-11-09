@@ -214,26 +214,21 @@
 
 ## Resources
 
-Front-End:
+Fundamentals:
+- [Learn HTML, CSS, and JavaScript in 30 minutes](https://www.youtube.com/watch?v=_GTMOmRrqkU)
+- [Java in 100 Seconds](https://www.youtube.com/watch?v=l9AzO1FMgM8)
+- [Spring Boot in 2 hours](https://www.youtube.com/watch?v=vtPkZShrvXQ&pp=ygULc3ByaW5nIGJvb3Q%3D)
 
-React: [Getting Started with React: A Beginner’s Guide | by A-Tech Studios | Sep, 2023 | Medium](https://medium.com/@A-Tech-Studios/getting-started-with-react-a-beginners-guide-1d876eb6db37)
+Frontend:
+- [React](https://react.dev/learn)
+- [Next.js](https://nextjs.org/)
+- [Bootstrap](https://getbootstrap.com/)
 
 Back-End
+- [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
+- [Spring Boot](https://www.codejava.net/frameworks/spring-boot/connect-to-microsoft-sql-server-examples)
+- [Postman](https://www.postman.com/)
 
-1. https://www.sqlshack.com/import-json-data-into-sql-server/![image](https://github.com/ava-greta-schock/coding-challenge-nov-2023/assets/144385894/7899e8cc-2e01-4ad0-b401-30399fd05ca9)
-2. Spring Boot Connect to Microsoft SQL Server Examples (codejava.net)![image](https://github.com/ava-greta-schock/coding-challenge-nov-2023/assets/144385894/03910d48-4360-4e7e-9536-cc3857fd95b6)
-3. https://www.javaguides.net/2021/07/spring-boot-tutorial-for-beginners.html
-
-
-
-Databases
-
-1. SQL Server
-
-## Solutions Referenced
-
-- [Azure SQL Database ledger tables](https://docs.microsoft.com/en-us/azure/azure-sql/database/ledger-overview?WT.mc_id=AI-MVP-5004204)
-- [Azure Confidential Ledger](https://docs.microsoft.com/en-gb/azure/confidential-ledger/?WT.mc_id=AI-MVP-5004204)
 
 
 
