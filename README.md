@@ -49,7 +49,8 @@
   <!-- First Challenge -->
       <tr width="600px">
         <td>
-            <h3>Challenge 1 | 100 points</h3>
+            <h3>Challenge 1 </h3>
+		<h4>100 Points</h4>
             <div>Create a working frontend webpage with React and Next.js. To complete the first step of the frontend challenge, you must complete the following steps in the <a href="https://nextjs.org/" target="_blank">Next.js </a>- Create Your First App tutorial:</div>
 	    <ul>
 		    <li><a href="https://nextjs.org/learn-pages-router/basics/create-nextjs-app" target="_blank">Create a Next.js App</a></li>
@@ -60,7 +61,8 @@
              <div>NOTE: If you plan on completing the full stack challenge, we recommend you complete the each step Next.js Create Your First App tutorial</div>	
           </td>
           <td>
-            <h3>Challenge 1 | 100 points</h3>
+            <h3>Challenge 1 </h3>
+		  <h4>100 Points</h4>
             <div>In order to complete the backend challenge, you must have <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank">SQL Server Management Studio</a> downloaded.</div>
 		  <br>
 	    <div>Establish a simple database system from an assigned system with primary table/object and can populate table with the given <a href="https://github.com/ava-greta-schock/coding-challenge-nov-2023/blob/main/parks.json" target="_blank">parks.json</a></div>
@@ -76,7 +78,8 @@
     <!-- Second Challenge -->
     <tr width="600px">
         <td>
-            <h3>Challenge 2 | 100 points</h3>
+            <h3>Challenge 2 </h3>
+		<h4>100 Points</h4>
             <div>Utilizing the National Park data stored in parks.json, <a href="https://react.dev/learn/rendering-lists" target="_blank">iterate</a> through the national park data to create a National Park landing page. Use <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">Bootstrap</a> as a frontend component library</div>
 		<br>
 		<div>The landing page must have a navigation bar with a home button. Additionally, the landing page must include each park's key data components:</div>
@@ -89,7 +92,8 @@
 		</ul>
           </td>
           <td>
-             <h3>Challenge 2 | 100 points</h3>
+             <h3>Challenge 2 </h3>
+		  <h4>100 Points</h4>
                 <div>Establish a connection (primary controller) for an initial database connection (we recommend <a href="https://www.codejava.net/frameworks/spring-boot/connect-to-microsoft-sql-server-examples" target="_blank">Spring Boot</a>.</div>
 		 <br>
 		  <div>Create a series of GET calls from database: </div>
@@ -113,7 +117,8 @@
       <!-- Third Challenge -->
     <tr width="600px">
         <td>
-            <h3>Challenge 3 | 100 points</h3>
+            <h3>Challenge 3 </h3>
+		<h4>100 Points</h4>
             <div>Transform the existing landing page into a simple list of the National Parks names. Ultimately, when the user clicks on it a park name, it will lead the user to a new park-specific page. You must include all of the static components from Step Two of the frontend challenge (name, description, etc.) in each individual page.</div>
 		<br>
 		<div>Additionally, you will use the React function <a href="https://react.dev/learn/rendering-lists" target="_blank">useState</a> to create the following interactive components for the user:</div>
@@ -128,7 +133,8 @@
         <br>  
 	</td>
           <td>
-              <h3>Challenge 3 | 100 points</h3>
+              <h3>Challenge 3 </h3>
+		  <h4>100 Points</h4>
                 <div>Having completed the GET mapping, now it's time to finish your POST, PUT, and DELETE mappings.</div>
 		  <br>
 		<div>Establish full API calls to the database with CRUD behavior (In Spring Boot, they're labeled as @GetMapping, @PostMapping, @PutMapping, and @DeleteMapping)</div>
@@ -149,7 +155,8 @@
       <!-- Fourth Challenge -->
     <tr width="600px">
         <td>
-            <h3>Challenge 4 | 100 points</h3>
+            <h3>Challenge 4 </h3>
+		<h4>100 Points</h4>
             <div>Now, utilize the activities.json file create components based on the activities each park provides. On the park-specific pages, you will need:</div>
 		<ul>
 			<li>An <a href="https://developers.google.com/maps" target="_blank">interactive map feature</a> based on latitude and longitude</li>
@@ -159,7 +166,8 @@
 		</ul>
           </td>
           <td>
-            <h3>Challenge 4 | 100 points</h3>
+            <h3>Challenge 4 </h3>
+		  <h4>100 Points</h4>
                 <div>Expand your database by implementing relationships between tables and can make proper CRUD calls to to new entities. New table creation is encouraged to be based off of user interactivity. Think about how you would store data for specific users</div>
 		  <br> 
 		  <div>Create new table/storage for the relational database:</div>
@@ -187,7 +195,8 @@
       <!-- Fifth Challenge -->
     <tr width="600px">
         <td>
-            <h3>Challenge 5 | 100 points</h3>
+            <h3>Challenge 5 </h3>
+		<h4>100 Points</h4>
             <div>Finally, you will ensure that your National Park app functions as expected and is accessible by all users. You must:</div>
 		<ol>
 			<li>Select <a href="https://nextjs.org/docs/pages/building-your-application/optimizing/testing" target="_blank">a testing library associated with Next.js</a> and test your application.</li>
@@ -195,7 +204,8 @@
 		</ol>
           </td>
           <td>
-            <h3>Challenge 5 | 100 points</h3>
+            <h3>Challenge 5 </h3>
+		  <h4>100 Points</h4>
                 <div>Establish a DTO (data transfer object) layer and modify our current mappings to return DTO types.</div>
 		  <br>
 		  <div>Implement a DTO layer into your application and can make complex/unique CRUD calls to your database.</div>
