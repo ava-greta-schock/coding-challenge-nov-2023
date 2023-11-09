@@ -102,7 +102,7 @@
                  <div>Use screenshots of <a href="https://www.postman.com/" target="_blank">Postman</a> responses to prove your functionality</div>
 		  <div>Requires: </div>
                 <ul>
-                    <li>DAO Layer (for Repositories)</li>
+                    <li>DAO Layer (for repositories)</li>
                     <li>Service Layer</li>
                     <li>Controller Layer (Use provided folders to create needed files - not including DTOs)</li>
                 </ul>
@@ -132,6 +132,7 @@
                 <div>Having completed the GET mapping, now it's time to finish your POST, PUT, and DELETE mappings.</div>
 		  <br>
 		<div>Establish full API calls to the database with CRUD behavior (In Spring Boot, they're labeled as @GetMapping, @PostMapping, @PutMapping, and @DeleteMapping)</div>
+		  <br>
                 <ul>
                     <li>CRUD call types (when applicable):</li>
 			<ul>
@@ -163,15 +164,13 @@
 		  <br> 
 		  <div>Create new table/storage for the relational database:</div>
                 <ul>
-                    <li>Activities.json</li>
-                    <li>Parks_Activities.json (relationship table, many-to-many)</li>
+                    <li><a href="https://github.com/ava-greta-schock/coding-challenge-nov-2023/blob/main/activities.json" target="_blank">Activities.json</a></li>
+                    <li><a href="https://github.com/ava-greta-schock/coding-challenge-nov-2023/blob/main/parks_activities.json" target="_blank">Parks_Activities.json</a> (relationship table, many-to-many)</li>
                 </ul>
-		  <br>
+			  <div>CRUD all new data from database</div>
 		  <ul>
-			  <li>CRUD all new data from database</li>
 			  <li>CRUD specific queried data from database - by ID</li>
 			  <li>CRUD specific queried data from database - by column</li>
-			  <li></li>
 		  </ul>
 		  <br>
 		  <div>Keep in mind...</div>
