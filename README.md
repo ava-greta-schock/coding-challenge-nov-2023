@@ -34,7 +34,7 @@
 </div>
 
 <h2 align="center">Instructions</h2>
-<div align="center">Choose either either the <b>Frontend</b> or <b>Backend</b> routes and follow the given steps. Please note the allotted points given for each step.</div>
+<div align="center">Choose either either the <b>Frontend</b> or <b>Backend</b> routes and follow the given steps.</div>
 <br> 
 <div align="center">For the <b>Full Stack</b> challenge, complete both routes in conjunction!</div>
 <br> 
