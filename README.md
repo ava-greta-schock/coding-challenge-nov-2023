@@ -37,6 +37,8 @@
 <div align="center">Choose either either the <b>Frontend</b> or <b>Backend</b> routes and follow the given steps.</div>
 <br> 
 <div align="center">For the <b>Full Stack</b> challenge, complete both routes in conjunction!</div>
+<br>
+<div align="center">Click <a href="https://www.nps.gov/subjects/digital/nps-data-api.htm" target="_blank" >here</a> to utilize the National Parks API</div>
 <br> 
 <table>
   <thead>
