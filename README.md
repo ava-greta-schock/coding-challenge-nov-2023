@@ -39,6 +39,7 @@
 <div align="center">For the <b>Full Stack</b> challenge, complete both routes in conjunction!</div>
 <br>
 <h3 align="center">🌲 Click <a href="https://www.nps.gov/subjects/digital/nps-data-api.htm" target="_blank" >here</a> to utilize the National Parks API 🌲</h3>
+<div align="center">Note: If you would prefer to start with the National Park API, please do! We provide a JSON as starter data, but it is not a requirement to use.</div>
 <br> 
 <table>
   <thead>
