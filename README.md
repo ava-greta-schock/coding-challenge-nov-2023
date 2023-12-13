@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to PacWest's November Coding Challenge!</h1>
+<h1 align="center">Welcome to PacWest's November + December Coding Challenge!</h1>
   
 <div align="center"><i>The purpose of PacWest's monthly Coding Challenge is to create a constant opportunity for developers to upskill their coding abilities, cultivate accomplishments to reference during role discussions, and build SWE community engagement through fun and captivating projects.</i></div>
 
@@ -16,7 +16,7 @@
 
 <hr>
 
-<h2 align="center">:arrow_down: To get started: fork this repository and follow the steps listed below :arrow_down:</h2>
+<h2 align="center"> To get started: fork this repository and follow the steps listed below</h2>
 <hr>
 <br>
 <br>
